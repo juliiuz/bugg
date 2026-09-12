@@ -1,0 +1,648 @@
+﻿2026-08-28 19:32:30 [INFO] --- Session started: 19:32:30 ---
+2026-08-28 19:32:30 [INFO] Initialized Bug-G Tools 2.0-dev
+2026-08-28 19:32:40 [INFO] Criando plano Ultimate Performance
+2026-08-28 19:32:41 [INFO] Ativando plano Ultimate Performance
+2026-08-28 19:32:42 [INFO] Plano de energia aplicado.
+2026-08-28 19:32:55 [INFO] Removendo Crashes
+2026-08-28 19:32:55 [WARN] Nao encontrado: C:\Users\julia\AppData\Local\TslGame\Saved\Crashes
+2026-08-28 19:32:55 [INFO] Removendo CohCache
+2026-08-28 19:32:55 [INFO] Removendo Demos
+2026-08-28 19:32:55 [INFO] Removendo Dist
+2026-08-28 19:32:55 [WARN] Nao encontrado: C:\Users\julia\AppData\Local\TslGame\Saved\Dist
+2026-08-28 19:32:55 [INFO] Removendo Dists
+2026-08-28 19:32:55 [INFO] Removendo Logs
+2026-08-28 19:32:55 [WARN] Falha ao remover C:\Users\julia\AppData\Local\TslGame\Saved\Logs: The process cannot access the file 'TslGame.log' because it is being used by another process.
+2026-08-28 19:32:55 [INFO] Limpeza do PUBG finalizada.
+2026-08-28 19:32:55 [INFO] Removendo 0002a93b13f58350.nvph
+2026-08-28 19:32:55 [INFO] Removendo 0002a93b1fa5d270.nvph
+2026-08-28 19:32:55 [INFO] Removendo 0002a93b31f6afee.nvph
+2026-08-28 19:32:55 [INFO] Removendo 0002a93b43c877cd.nvph
+2026-08-28 19:32:55 [INFO] Removendo 0002a93b6a45ffe5.nvph
+2026-08-28 19:32:55 [INFO] Removendo 0002a93b9ff3bf53.nvph
+2026-08-28 19:32:55 [INFO] Removendo 0002a93bae603702.nvph
+2026-08-28 19:32:55 [INFO] Removendo 2000a93b9ff3bf53.nvph
+2026-08-28 19:32:55 [INFO] Removendo ecc4a93b128cd128.nvph
+2026-08-28 19:32:55 [INFO] Removendo ecc4a93b13f58350.nvph
+2026-08-28 19:32:55 [INFO] Removendo ecc4a93b1da2583c.nvph
+2026-08-28 19:32:55 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b1da2583c.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b1da2583c.nvph' because it is being used by another process.
+2026-08-28 19:32:55 [INFO] Removendo ecc4a93b1fa5d270.nvph
+2026-08-28 19:32:55 [INFO] Removendo ecc4a93b2a531b95.nvph
+2026-08-28 19:32:55 [INFO] Removendo ecc4a93b2ac6783f.nvph
+2026-08-28 19:32:55 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b2ac6783f.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b2ac6783f.nvph' because it is being used by another process.
+2026-08-28 19:32:55 [INFO] Removendo ecc4a93b31f6afee.nvph
+2026-08-28 19:32:55 [INFO] Removendo ecc4a93b3f720ae0.nvph
+2026-08-28 19:32:55 [INFO] Removendo ecc4a93b414b340b.nvph
+2026-08-28 19:32:55 [INFO] Removendo ecc4a93b43c877cd.nvph
+2026-08-28 19:32:55 [INFO] Removendo ecc4a93b62901ecf.nvph
+2026-08-28 19:32:55 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b62901ecf.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b62901ecf.nvph' because it is being used by another process.
+2026-08-28 19:32:55 [INFO] Removendo ecc4a93b64ef8c69.nvph
+2026-08-28 19:32:55 [INFO] Removendo ecc4a93b6a45ffe5.nvph
+2026-08-28 19:32:55 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b6a45ffe5.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b6a45ffe5.nvph' because it is being used by another process.
+2026-08-28 19:32:55 [INFO] Removendo ecc4a93b6a45ffe6.nvph
+2026-08-28 19:32:55 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b6a45ffe6.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b6a45ffe6.nvph' because it is being used by another process.
+2026-08-28 19:32:55 [INFO] Removendo ecc4a93b6a45ffe7.nvph
+2026-08-28 19:32:55 [INFO] Removendo ecc4a93b730a2159.nvph
+2026-08-28 19:32:55 [INFO] Removendo ecc4a93b8a9bc465.nvph
+2026-08-28 19:32:55 [INFO] Removendo ecc4a93bae603702.nvph
+2026-08-28 19:32:55 [INFO] Removendo ecc4a93bed53c641.nvph
+2026-08-28 19:32:55 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93bed53c641.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93bed53c641.nvph' because it is being used by another process.
+2026-08-28 19:32:55 [INFO] Removendo ecc4a93bee9c70fa.nvph
+2026-08-28 19:32:55 [INFO] Removendo b315786a2d10993732d5dcb76e61f3c4
+2026-08-28 19:32:55 [INFO] Removendo 1a82b3ed8639e459
+2026-08-28 19:32:55 [INFO] Removendo 1db5f3a1380cd6d3
+2026-08-28 19:32:55 [INFO] Removendo 2549440c3844a768
+2026-08-28 19:32:55 [INFO] Removendo 3534848bb9f4cb71
+2026-08-28 19:32:55 [INFO] Removendo 6c4a3154175c1245
+2026-08-28 19:32:55 [INFO] Removendo c887a4af2c182404
+2026-08-28 19:32:55 [INFO] Removendo cb00da9ba77862e
+2026-08-28 19:32:55 [INFO] Removendo ceaeb6278952c45b
+2026-08-28 19:32:55 [INFO] Removendo d3fe7cdcb51a5ef5
+2026-08-28 19:32:55 [INFO] Removendo e7ff1d3752526ef
+2026-08-28 19:32:55 [INFO] Removendo e85bb08d12d28cfc
+2026-08-28 19:32:55 [INFO] Cache de shaders limpo.
+2026-08-28 19:32:55 [INFO] Encerrando chrome
+2026-08-28 19:32:55 [INFO] Encerrando GoogleCrashHandler
+2026-08-28 19:32:55 [INFO] Encerrando GoogleCrashHandler64
+2026-08-28 19:32:55 [INFO] Encerrando msedge
+2026-08-28 19:32:55 [INFO] Encerrando firefox
+2026-08-28 19:32:55 [INFO] Encerrando opera
+2026-08-28 19:32:55 [INFO] Encerrando brave
+2026-08-28 19:32:55 [INFO] Encerrando OneDrive
+2026-08-28 19:32:55 [INFO] Encerrando GoogleDriveFS
+2026-08-28 19:32:55 [INFO] Encerrando Dropbox
+2026-08-28 19:32:55 [INFO] Encerrando Skype
+2026-08-28 19:32:55 [INFO] Encerrando Teams
+2026-08-28 19:32:55 [INFO] Encerrando ms-teams
+2026-08-28 19:32:55 [INFO] Encerrando Telegram
+2026-08-28 19:32:55 [INFO] Encerrando WhatsApp
+2026-08-28 19:32:55 [INFO] Encerrando Zoom
+2026-08-28 19:32:55 [INFO] Encerrando steamwebhelper
+2026-08-28 19:32:55 [INFO] Encerrando EpicGamesLauncher
+2026-08-28 19:32:55 [INFO] Encerrando upc
+2026-08-28 19:32:55 [INFO] Encerrando UbisoftConnect
+2026-08-28 19:32:55 [INFO] Encerrando EADesktop
+2026-08-28 19:32:55 [INFO] Encerrando Origin
+2026-08-28 19:32:55 [INFO] Encerrando Battle.net
+2026-08-28 19:32:55 [INFO] Encerrando Agent
+2026-08-28 19:32:55 [INFO] Encerrando Launcher
+2026-08-28 19:32:55 [INFO] Encerrando RockstarService
+2026-08-28 19:32:55 [INFO] Encerrando NVIDIA Share
+2026-08-28 19:32:55 [INFO] Encerrando nvsphelper64
+2026-08-28 19:32:55 [INFO] Encerrando RadeonSoftware
+2026-08-28 19:32:55 [INFO] Encerrando Overwolf
+2026-08-28 19:32:55 [INFO] Encerrando GameBar
+2026-08-28 19:32:55 [INFO] Encerrando GameBarFTServer
+2026-08-28 19:32:55 [INFO] Encerrando GameBarPresenceWriter
+2026-08-28 19:32:55 [INFO] Encerrando XboxPcApp
+2026-08-28 19:32:55 [INFO] Encerrando Adobe Desktop Service
+2026-08-28 19:32:55 [INFO] Encerrando Creative Cloud
+2026-08-28 19:32:55 [INFO] Encerrando CCXProcess
+2026-08-28 19:32:55 [INFO] Encerrando jusched
+2026-08-28 19:32:55 [INFO] Encerrando OfficeClickToRun
+2026-08-28 19:32:55 [INFO] Encerrando SearchUI
+2026-08-28 19:32:55 [INFO] Encerrando SearchIndexer
+2026-08-28 19:32:55 [INFO] Encerrando HPWuSchd2
+2026-08-28 19:32:55 [INFO] Encerrando EpsonStatusMonitor3
+2026-08-28 19:32:55 [INFO] Encerrando iCUE
+2026-08-28 19:32:55 [INFO] Encerrando ArmouryCrate
+2026-08-28 19:32:55 [INFO] Encerrando Mystic_Light
+2026-08-28 19:32:55 [INFO] Encerrando TeamViewer
+2026-08-28 19:32:55 [INFO] Encerrando AnyDesk
+2026-08-28 19:32:55 [INFO] Encerrando qbittorrent
+2026-08-28 19:32:55 [INFO] Encerrando uTorrent
+2026-08-28 19:32:55 [INFO] Processos processados.
+2026-08-28 19:32:55 [INFO] Criando plano Ultimate Performance
+2026-08-28 19:32:56 [INFO] Ativando plano Ultimate Performance
+2026-08-28 19:32:57 [INFO] Plano de energia aplicado.
+2026-08-28 19:32:58 [INFO] Desativando captura em background do Xbox Game DVR
+2026-08-28 19:32:58 [INFO] Game DVR desativado.
+2026-08-28 19:32:58 [INFO] Desativando notificacoes toast
+2026-08-28 19:32:58 [INFO] Desativando notificacoes globais
+2026-08-28 19:32:58 [INFO] Desativando sugestoes e dicas do Windows
+2026-08-28 19:32:58 [INFO] Notificacoes desativadas. Pode ser necessario sair e entrar no Windows para aplicar tudo.
+2026-08-28 19:32:58 [INFO] Removendo Network Throttling
+2026-08-28 19:32:58 [INFO] Priorizando perfil Games
+2026-08-28 19:32:58 [INFO] Tweaks MMCSS aplicados.
+2026-08-28 19:32:58 [INFO] Resetando Winsock
+2026-08-28 19:32:59 [INFO] Winsock resetado. Reiniciar o PC e recomendado.
+2026-08-28 19:32:59 [INFO] Iniciando PUBG pela Steam
+2026-08-28 19:32:59 [INFO] O jogo deve iniciar em instantes.
+2026-08-28 21:16:54 [INFO] Limpando cache DNS
+2026-08-28 21:16:55 [INFO] Operacao concluida.
+2026-08-28 21:16:55 [INFO] Registrando DNS
+2026-08-28 21:16:58 [INFO] Operacao concluida.
+2026-08-28 21:16:58 [INFO] Liberando IP
+2026-08-28 21:16:59 [INFO] Renovando IP
+2026-08-28 21:17:03 [INFO] Operacao concluida.
+2026-08-28 21:17:03 [INFO] Resetando Winsock
+2026-08-28 21:17:04 [INFO] Winsock resetado. Reiniciar o PC e recomendado.
+2026-08-28 21:17:26 [INFO] Encerrando NVIDIA Share
+2026-08-28 21:17:26 [INFO] Encerrando nvsphelper64
+2026-08-28 21:17:26 [INFO] Encerrando RadeonSoftware
+2026-08-28 21:17:26 [INFO] Encerrando Overwolf
+2026-08-28 21:17:26 [INFO] Encerrando GameBar
+2026-08-28 21:17:26 [INFO] Encerrando GameBarFTServer
+2026-08-28 21:17:26 [INFO] Encerrando GameBarPresenceWriter
+2026-08-28 21:17:26 [INFO] Encerrando XboxPcApp
+2026-08-28 21:17:26 [INFO] Grupo Overlays processado.
+2026-08-28 21:18:17 [INFO] Parando BTAGService
+2026-08-28 21:18:17 [INFO] Parando bthserv
+2026-08-28 21:18:17 [INFO] Parando BluetoothUserService
+2026-08-28 21:18:17 [INFO] Parando Spooler
+2026-08-28 21:18:17 [INFO] Parando PrintNotify
+2026-08-28 21:18:17 [INFO] Parando Fax
+2026-08-28 21:18:17 [INFO] Parando RasMan
+2026-08-28 21:18:18 [INFO] Parando SessionEnv
+2026-08-28 21:18:18 [INFO] Parando TermService
+2026-08-28 21:18:18 [INFO] Parando RemoteRegistry
+2026-08-28 21:18:18 [INFO] Parando mapsbroker
+2026-08-28 21:18:18 [INFO] Parando TabletInputService
+2026-08-28 21:18:18 [INFO] Parando CscService
+2026-08-28 21:18:18 [INFO] Parando ALG
+2026-08-28 21:18:18 [INFO] Parando SCardSvr
+2026-08-28 21:18:18 [INFO] Parando stisvc
+2026-08-28 21:18:18 [INFO] Parando DiagTrack
+2026-08-28 21:18:18 [INFO] Parando RetailDemo
+2026-08-28 21:18:18 [INFO] Parando WMPNetworkSvc
+2026-08-28 21:18:18 [INFO] Parando AJRouter
+2026-08-28 21:18:18 [INFO] Parando lfsvc
+2026-08-28 21:18:18 [INFO] Parando EntAppSvc
+2026-08-28 21:18:18 [INFO] Parando SharedAccess
+2026-08-28 21:18:20 [INFO] Servicos processados.
+2026-08-28 21:18:32 [INFO] Encerrando Skype
+2026-08-28 21:18:32 [INFO] Encerrando Teams
+2026-08-28 21:18:32 [INFO] Encerrando ms-teams
+2026-08-28 21:18:32 [INFO] Encerrando Telegram
+2026-08-28 21:18:32 [INFO] Encerrando WhatsApp
+2026-08-28 21:18:32 [INFO] Encerrando Zoom
+2026-08-28 21:18:32 [INFO] Grupo Communication processado.
+2026-08-28 21:18:46 [INFO] Removendo 125B.tmp
+2026-08-28 21:18:46 [INFO] Removendo 2307.tmp
+2026-08-28 21:18:46 [INFO] Removendo 260d-6bf4-eea4-1a0a
+2026-08-28 21:18:46 [INFO] Removendo 2A35.tmp
+2026-08-28 21:18:46 [INFO] Removendo 650.tmp
+2026-08-28 21:18:46 [INFO] Removendo 690B.tmp
+2026-08-28 21:18:46 [INFO] Removendo 9343b833-e7af-42ea-8a61-31bc41eefe2b
+2026-08-28 21:18:46 [INFO] Removendo Acrobat Distiller DC
+2026-08-28 21:18:46 [INFO] Removendo acrocef_low
+2026-08-28 21:18:46 [INFO] Removendo AdobeVulcan
+2026-08-28 21:18:46 [INFO] Removendo AEC4.tmp
+2026-08-28 21:18:46 [INFO] Removendo bd92-6b5f-6fed-e238
+2026-08-28 21:18:46 [INFO] Removendo bummoo-phase0-adopt-bummoo_phase4_final_adopt_verify
+2026-08-28 21:18:46 [INFO] Removendo bummoo-phase0-catalog-verify
+2026-08-28 21:18:46 [INFO] Removendo bummoo-phase0-catalog-verify-replay
+2026-08-28 21:18:46 [INFO] Removendo bummoo-phase0-demo-verify
+2026-08-28 21:18:46 [INFO] Removendo bummoo-phase0-verify-bummoo_phase4_final_baseline_verify
+2026-08-28 21:18:46 [INFO] Removendo C14C.tmp
+2026-08-28 21:18:46 [INFO] Removendo codex-index-1eb37ab0-9681-46a7-93f2-6766dab4e9ef
+2026-08-28 21:18:46 [INFO] Removendo codex-index-3d5bf98f-2c8b-4569-a9e7-de8075af2360
+2026-08-28 21:18:46 [INFO] Removendo codex-index-564603bd-485e-4275-9eae-5eeeb097217b
+2026-08-28 21:18:46 [INFO] Removendo codex-index-616d8c2f-ac1e-4afe-aad0-46afe9e85aa2
+2026-08-28 21:18:46 [INFO] Removendo codex-index-81f02df2-3ff3-42c5-8c1b-99df17b70cd5
+2026-08-28 21:18:46 [INFO] Removendo codex-index-837d79a0-7d21-47ab-879a-2d326cdd3ea9
+2026-08-28 21:18:46 [INFO] Removendo codex-index-8caa1063-75b5-4e66-ada8-c27d883540f9
+2026-08-28 21:18:46 [INFO] Removendo codex-index-9185a368-9009-4317-9e8a-ec8647ce53f7
+2026-08-28 21:18:46 [INFO] Removendo codex-index-996db209-247a-4c41-aeb5-791f9e68bb5d
+2026-08-28 21:18:46 [INFO] Removendo codex-index-a406e8ee-3bb6-4486-acd9-6b8b301b6681
+2026-08-28 21:18:46 [INFO] Removendo codex-index-b41e91cd-8977-497a-a8b6-8a2123c2db7a
+2026-08-28 21:18:46 [INFO] Removendo codex-index-c1b428fb-da95-43a6-8efc-48789b655843
+2026-08-28 21:18:46 [INFO] Removendo codex-index-ce5ac9d2-0d67-4f4b-80e8-46333039c7b8
+2026-08-28 21:18:47 [INFO] Removendo codex-index-d948778a-1514-4253-86ab-35986f35e8b3
+2026-08-28 21:18:47 [INFO] Removendo collab_low
+2026-08-28 21:18:47 [INFO] Removendo Diagnostics
+2026-08-28 21:18:47 [INFO] Removendo DiagOutputDir
+2026-08-28 21:18:47 [INFO] Removendo DockerDesktopUpdates
+2026-08-28 21:18:47 [INFO] Removendo go-build1114199682
+2026-08-28 21:18:47 [INFO] Removendo go-build1262611501
+2026-08-28 21:18:47 [INFO] Removendo go-build1283165751
+2026-08-28 21:18:47 [INFO] Removendo go-build1286360903
+2026-08-28 21:18:47 [INFO] Removendo go-build1538313097
+2026-08-28 21:18:47 [INFO] Removendo go-build1694479433
+2026-08-28 21:18:47 [INFO] Removendo go-build1723808567
+2026-08-28 21:18:47 [INFO] Removendo go-build1746917463
+2026-08-28 21:18:47 [INFO] Removendo go-build1888623464
+2026-08-28 21:18:47 [INFO] Removendo go-build2263744025
+2026-08-28 21:18:47 [INFO] Removendo go-build2726652532
+2026-08-28 21:18:47 [INFO] Removendo go-build3024803739
+2026-08-28 21:18:47 [INFO] Removendo go-build3062692294
+2026-08-28 21:18:47 [INFO] Removendo go-build3076790698
+2026-08-28 21:18:47 [INFO] Removendo go-build325560528
+2026-08-28 21:18:47 [INFO] Removendo go-build355052081
+2026-08-28 21:18:47 [INFO] Removendo go-build3976516302
+2026-08-28 21:18:47 [INFO] Removendo go-build3993640247
+2026-08-28 21:18:47 [INFO] Removendo go-build4162816838
+2026-08-28 21:18:47 [INFO] Removendo go-build476396185
+2026-08-28 21:18:47 [INFO] Removendo go-build696112471
+2026-08-28 21:18:47 [INFO] Removendo go-build982182486
+2026-08-28 21:18:47 [INFO] Removendo hsperfdata_JuliiuZ
+2026-08-28 21:18:47 [INFO] Removendo jna-408379270
+2026-08-28 21:18:47 [INFO] Removendo ListSync
+2026-08-28 21:18:47 [INFO] Removendo Microsoft
+2026-08-28 21:18:47 [INFO] Removendo node-compile-cache
+2026-08-28 21:18:47 [INFO] Removendo NvTelemetry_WD
+2026-08-28 21:18:47 [INFO] Removendo Outlook Logging
+2026-08-28 21:18:47 [INFO] Removendo steam
+2026-08-28 21:18:47 [INFO] Removendo system-commandline-sentinel-files
+2026-08-28 21:18:47 [INFO] Removendo TeamViewer
+2026-08-28 21:18:47 [INFO] Removendo vscode-typescript
+2026-08-28 21:18:47 [INFO] Removendo WinGet
+2026-08-28 21:18:47 [INFO] Removendo WSLDVCPlugin
+2026-08-28 21:18:47 [INFO] Removendo .ses
+2026-08-28 21:18:47 [INFO] Removendo 002433ca-f753-42d1-86f8-56e9a6ff5d6e.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 00840613-d4d3-4cce-b254-d7328ffb07f5.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 01d30c44-d5a2-4c26-bf67-5ac3a53a87df.tmp
+2026-08-28 21:18:47 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\01d30c44-d5a2-4c26-bf67-5ac3a53a87df.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\01d30c44-d5a2-4c26-bf67-5ac3a53a87df.tmp' because it is being used by another process.
+2026-08-28 21:18:47 [INFO] Removendo 02b01f5d-c2e5-4d37-af8b-cce26aa225ee.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 03714b8a-bbce-4512-8b08-e00e3e244633.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 061c3905-a72a-4fae-9c48-ee497726e3ea.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 0a79bbec-8d8d-4de0-9ddc-308bf9e7766c.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 0afb30ec-b10f-4a73-869b-976a173a7cb5.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 0ba48351-4679-481c-ac78-931421d434fb.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 0dcaf04d-1078-4e50-a718-14ea1f467fa6.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 0f6a884d-7d98-4908-ae87-66d2f7856746.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 1118c7b7-3411-4b33-8d4e-bb7acf0f51b2.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 1156b53f-e21c-4582-9c19-1a78ace1df21.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 120736ff-fa91-497e-96a9-1247e9228ed9.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 12f15ac3-cb0e-408e-83ee-b58568aa46ea.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 1578988d-629d-4614-839c-29e9a530bfb3.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 1836b3f4-55ec-463d-98db-87f64491dc61.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 19677777-873b-4c9f-9b68-74bea64f2bee.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 1b6aa8b5-553c-48fb-8730-83721dc01684.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 1b87e821-ad82-48c6-b027-31b5efadf6e2.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 1c2aa00c-3743-46f1-9053-682b579e1d68.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 1d82bb8e-12c8-46af-99f3-1daf304082f6.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 1da76ad2-f742-481b-8ed8-92f0963fb6e1.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 1e1c086a-1543-431e-b151-0eea1431a8f4.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 1ec26cf2-7b99-4998-bc8f-605afea1dc5d.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 2ad798d6-6f81-4790-9d7c-538c325c8c3f.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 2bb4375a-6428-4bfb-bcbe-f0fc4a066dcf.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 2cdd4de6-bf09-424e-825e-dc70ad618e59.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 2d02831b-0d75-49c9-bb5b-ea6c23c71dfa.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 2d46b25e-e219-4e72-ae33-e98141cb1a98.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 2dff259d-39e6-4996-ae23-8f76df4ae734.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 2e8d6924-dc80-4a1b-9da1-930a3d9ba32a.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 2ec6ed47-3f63-4649-a9ad-e36d67350363.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 2fedb96c-0b82-4598-82c9-441c1a20990b.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 3270d20e-5b25-4a4f-8cf9-9b3b4e3e3be5.tmp
+2026-08-28 21:18:47 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\3270d20e-5b25-4a4f-8cf9-9b3b4e3e3be5.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\3270d20e-5b25-4a4f-8cf9-9b3b4e3e3be5.tmp' because it is being used by another process.
+2026-08-28 21:18:47 [INFO] Removendo 335a0b5b-a833-4169-8780-453cadb5ebc0.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 35c52333-3657-4de8-aa6e-0e28f2c79078.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 365d2491-3d40-4bd2-986e-b474bfb460ef.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 3726375e-1099-42d2-8523-36c29f1843d3.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 3b5f0178-6b8f-4ea1-9b1c-d9b5a2a97ac8.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 43d71c5c-d815-46f6-b658-659062f47782.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 44882b11-8078-4eff-ae17-9842122b7983.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 4801bd71-3659-4b7b-97f4-bff806c66d3b.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 49ef628b-c256-4a22-b3d6-8af8cbfc5765.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 4ac60dc7-33c8-486b-8426-a8b29960d2be.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 4b2ba608-599a-402d-b21f-cbe8d0607780.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 4d13ea59-0803-4099-9839-d79f2564031d.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 5132347e-e35b-454b-8fbb-0ea7355ffff8.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 52d974a6-58d7-4cd6-adac-d45a5e358ea4.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 533fbb51-d149-43d2-ba6c-45c5e8df3cdc.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 543934c8-ad99-4f53-aad0-f315d0814ea0.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 57397b3a-2c97-4a43-843d-6fea24ae44a5.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 59b133f8-6a67-4b9d-8ef7-a41a06ebb9b5.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 59cb47f4-e34b-4e3e-9167-09e10b1d52ee.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 5cd71585-2f14-4b45-bcca-50017a366b3d.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 5f8f6334-7bdb-4159-a7c2-96baed60bdcf.tmp
+2026-08-28 21:18:47 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\5f8f6334-7bdb-4159-a7c2-96baed60bdcf.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\5f8f6334-7bdb-4159-a7c2-96baed60bdcf.tmp' because it is being used by another process.
+2026-08-28 21:18:47 [INFO] Removendo 60d734de-3b0d-4943-810d-f498a8aeb9cd.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 61cb6e8b-29d8-4083-996a-bba6a1f095ad.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 622e85a0-155c-4d84-9804-deebfeac61fc.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 632e02aa-2612-4d90-85d5-ebf6eb6671f7.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 646c619a-91ea-46a4-aa8c-cd8657b9b6f5.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 66bdded9-cb3a-4aca-a9b0-6cbc2456a071.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 679927de-38c5-4ae4-a748-e734301754a3.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 6913ed49-9cad-4050-8e8e-837ba4ecfc2d.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 69f3020f-bbd8-44fa-a678-ba99be677b7c.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 6fa2ae62-83ee-4e66-9449-2dc74127c8ab.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 6fc0ee72-6b33-4942-b646-0e4bd995da71.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 70f1eb3e-559d-4d7e-baa0-08b018526f34.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 7227fa7a-a3e7-45af-b4dc-1d94548e3080.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 73218294-3074-4e08-8071-1455c01aef16.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 734a44f3-95f2-4f79-880d-f301d27ee153.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 747193c6-6e94-4eca-953b-7804e713a1e4.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 747557b3-b417-4ba3-b4af-15bcf4c30647.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 75d7be91-8100-40ec-9e51-b1d060a39670.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 75de1652-e6ee-4a2a-9c27-06cabe98968a.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 766ee6e4-180e-4569-a274-b93da5f51294.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 7b8eff0b-bf4a-4d2b-aa07-20bd1184bbd2.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 7e202f5b-f992-4423-a3ea-b38e7f67c839.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 7fb15c33-f1df-4ec5-9fa0-fdd608286e1d.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 80476f99-d28d-4e98-9376-8031422d2513.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 83064245-19f6-43f1-82de-b4f05ed6bcc7.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 86232500-6b5a-46e5-8b28-2f2e5ad17db8.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 8904f1f7-1c52-4956-a6e6-461353bf02a5.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 89498e2b-6a5c-4035-9e37-bc423eceecee.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 8a2a14b4-6f66-42b4-8ddc-ceee6f608ab5.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 8a642b0b-704c-4d41-bd2e-ac3ac08d13bd.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 8eb7d652-c94e-41fe-a8f3-a7998ddd724f.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 90a428a0-4081-458a-9224-a3013767147e.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 979cb750-190a-490b-aaa4-291cf8d488ea.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 97d79c96-da4c-46e4-aced-2280cb40349a.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 980762bb-4d79-43e2-bbf2-24ef2dbf297f.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 9870f02c-c428-47f4-8bd0-0e8294621416.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 98953404-4adb-462d-889b-97474463f85e.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 9aba0eb9-0995-49b2-a01f-58edaab19570.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo 9bc5bf3f-63d9-4168-9da9-dacf5aa825c9.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo a06779ef-4e83-4688-99bf-3c500dcc6446.tmp
+2026-08-28 21:18:47 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\a06779ef-4e83-4688-99bf-3c500dcc6446.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\a06779ef-4e83-4688-99bf-3c500dcc6446.tmp' because it is being used by another process.
+2026-08-28 21:18:47 [INFO] Removendo a1947fdc-c074-4e33-9f1c-edb3daeaf5f0.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo a1c6fd32-235b-49cb-80fe-1cb13916877a.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo a607f4ed-de9f-4ad7-a1b1-be46ef42e9cc.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo aa500b90-87f9-4df1-a4cc-8b65c3befd9e.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo ab802dc7-0091-4ae8-bb41-608c62170e61.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo abde320a-96af-4e3c-972f-85497814c273.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo ac2bd20a-3d87-4324-b495-cb1ea8364988.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo adobegc.log
+2026-08-28 21:18:47 [INFO] Removendo amt3.log
+2026-08-28 21:18:47 [INFO] Removendo appitau.log
+2026-08-28 21:18:47 [INFO] Removendo appitau_old.log
+2026-08-28 21:18:47 [INFO] Removendo b0ceb2a5-5cb4-4ea8-a0a6-b3395fa8ad27.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo b20e4cbb-498e-4372-885b-1ddedcdf2ec6.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo b527b10e-0391-4476-9f78-ade6dc72edbc.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo b5b69f8d-357c-45df-bdec-03e900df0ae0.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo b7b76f54-29ad-452a-9497-b4682b0c3228.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo b8749a52-3764-4bee-bedb-7574b1279055.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo b903ad8f-8b20-4355-9380-f345b46872e0.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo bc5001ad-f554-4014-953d-4598cca3b02c.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo bc56d8e8-2c54-43a5-acfd-74be9b299eb3.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo bummoo-before-demo-events-alerts-20260825-232559.dump.restore-list.txt
+2026-08-28 21:18:47 [INFO] Removendo c19d5bea-55be-40ea-8f0c-396fe68b3650.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo c3f41952-f44d-4644-8a11-7253fc514601.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo c43c17ee-574d-4814-8404-64c266c9a331.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo c6540f44-8b3d-42a8-b53c-765add865f05.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo c85afdc2-8ba4-4c97-ad10-c033ffd22538.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo c97f5c6a-3dfe-4e25-ba7c-9165c115eb39.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo cb4b7918-5237-4183-9abd-f4ffddd42f88.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo cc773683-faa5-4aac-9374-2c7541fd0349.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo ccee200e-408d-4546-bbdb-0c5cf3c0afad.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo ccf538eb-de6f-4ffc-a23c-2e8e724815a0.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo cdab8735-b70f-4ed8-b2f2-624e9a1e4e39.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo cf392e45-cf31-41a4-a177-c1e050b2e8d6.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo cf633ee7-9369-4df0-beae-bd69055866a3.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo cfac5b8a-d15e-4344-b2dd-ab8b51ed3c7f.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo CFGDA8B.tmp
+2026-08-28 21:18:47 [INFO] Removendo CFGDDC7.tmp
+2026-08-28 21:18:47 [INFO] Removendo cv_debug.log
+2026-08-28 21:18:47 [INFO] Removendo d1c58c0d-3f70-4c6e-9201-65e86b2bd39b.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo d32aa11c-b75e-48ba-8755-052b6f6c05d9.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo d367b1dc-f32a-4459-9f57-374322dbe063.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo d4266381-4935-497b-a7f3-63bfaf96b76a.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo d5ca3833-785d-47e0-af21-e099323241d7.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo d9eb40df-5e6e-4b8b-a8d8-ef45848a1db4.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo dc6b10ac-655e-42d6-945d-7c3899f11ac2.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo de6872b9-5fc2-4549-807a-d955f579f809.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo de6874de-ed3c-4621-88a0-a2c6c7064b4a.tmp
+2026-08-28 21:18:47 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\de6874de-ed3c-4621-88a0-a2c6c7064b4a.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\de6874de-ed3c-4621-88a0-a2c6c7064b4a.tmp' because it is being used by another process.
+2026-08-28 21:18:47 [INFO] Removendo debug.log
+2026-08-28 21:18:47 [INFO] Removendo dee1b344-7fd8-4faa-a1f5-52007205f313.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo e00686bc-f858-4b0a-9e54-daa2d4c6e477.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo e0eaad2b-04e8-42cf-bdef-b5c017796343.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo e225d4d9-c930-4654-bbb7-1ee926ce08d1.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo e2b794d5-2b72-4ab9-93fc-16efdf38f733.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo e2ce59a6-a719-45b5-80af-4e81af0573ab.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo e41833e8-8211-4608-8cfa-066b75e5303d.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo e87da739-d700-48da-b483-a84ffa6fb404.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo e8abea3e-0b49-4d58-908b-599b75c0ca9d.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo e8fd1a03-9321-40cb-bec4-3e9d04ea4a6e.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo e90ad9e7-8691-4109-a2fd-5e06e2cd0f6b.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo ecc39dfd-9c03-49ec-b4ba-0affa7160bdd.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo ee6c5632-3c0e-4e37-9e38-94dd6703cb24.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo eed9e43d-7f86-475b-afeb-13b37b0e3e3f.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo exthost-e13c97.cpuprofile
+2026-08-28 21:18:47 [INFO] Removendo f2364179-61f9-4948-9b03-14bef7ba19f9.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo f4c7bc53-bda7-419f-80ce-f390af78f0d4.tmp.ico
+2026-08-28 21:18:47 [INFO] Removendo f5b172bc-515c-4a7e-a86c-711c461bfd36.tmp.ico
+2026-08-28 21:18:48 [INFO] Removendo f7adf6ec-5bf9-462b-89d4-daaebfe54502.tmp.ico
+2026-08-28 21:18:48 [INFO] Removendo fd77b34a-04d7-4bd7-9ec1-ad29e3c644bd.tmp.ico
+2026-08-28 21:18:48 [INFO] Removendo ffe160da-03cb-4900-966d-9b33641456f3.tmp.ico
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-10072.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-10144.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-10148.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-10704.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-10932.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-11124.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-11128.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-11256.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-11316.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-11344.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-11572.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-11944.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-12292.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-13024.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-13444.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-13480.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-13588.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-13708.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-13964.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-14112.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-14136.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-14152.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-14484.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-14528.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-15560.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-1576.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-15916.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-16308.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-16396.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-17012.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-17452.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-17464.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-17688.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-17828.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-17860.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-18928.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-19184.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-19488.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-19776.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-20124.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-20492.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-20704.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-21752.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-2184.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-22436.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-22644.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-22916.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-23060.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-23144.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-23160.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-23984.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-24032.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-24264.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-25388.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-26004.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-4252.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-5972.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-6020.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-6664.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-7048.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-7064.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-7588.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-8384.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-8524.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-8660.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-9012.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-9036.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-9236.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-9628.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-9896.log
+2026-08-28 21:18:48 [INFO] Removendo mat-debug-9908.log
+2026-08-28 21:18:48 [INFO] Removendo NGLClient_default.log
+2026-08-28 21:18:48 [INFO] Removendo oobelib.log
+2026-08-28 21:18:48 [INFO] Removendo PDApp.log
+2026-08-28 21:18:48 [INFO] Removendo prep_Form_JSI_API_not_a_real_file_Hermes_perf.cache
+2026-08-28 21:18:48 [INFO] Removendo prep_foundation_win32_bundle_V8_perf.cache
+2026-08-28 21:18:48 [INFO] Removendo prep_jsi-internal___host-function-manager_js_V8_perf.cache
+2026-08-28 21:18:48 [INFO] Removendo prep_licensing_win32_bundle_V8_perf.cache
+2026-08-28 21:18:48 [INFO] Removendo prep_ui_win32_bundle_V8_perf.cache
+2026-08-28 21:18:48 [INFO] Removendo reporter.exe
+2026-08-28 21:18:48 [INFO] Removendo StructuredQuery.log
+2026-08-28 21:18:48 [INFO] Removendo swtag.log
+2026-08-28 21:18:48 [INFO] Removendo wct1A20.tmp
+2026-08-28 21:18:48 [INFO] Removendo wct1CB8.tmp
+2026-08-28 21:18:48 [INFO] Removendo wct1CDE.tmp
+2026-08-28 21:18:48 [INFO] Removendo wct2523.tmp
+2026-08-28 21:18:48 [INFO] Removendo wct2F66.tmp
+2026-08-28 21:18:48 [INFO] Removendo wct2F79.tmp
+2026-08-28 21:18:48 [INFO] Removendo wct323E.tmp
+2026-08-28 21:18:48 [INFO] Removendo wct323F.tmp
+2026-08-28 21:18:48 [INFO] Removendo wct3862.tmp
+2026-08-28 21:18:48 [INFO] Removendo wct4AF7.tmp
+2026-08-28 21:18:48 [INFO] Removendo wct4D4D.tmp
+2026-08-28 21:18:48 [INFO] Removendo wct4F7B.tmp
+2026-08-28 21:18:48 [INFO] Removendo wct7035.tmp
+2026-08-28 21:18:48 [INFO] Removendo wct8141.tmp
+2026-08-28 21:18:48 [INFO] Removendo wct8640.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctA07E.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctA07F.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctA53A.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctA5C8.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctBC05.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctC598.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctC984.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctD16B.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctDF83.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctE741.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctE973.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctF71D.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctFFF5.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctFFF6.tmp
+2026-08-28 21:18:48 [INFO] Removendo {0DAE3DC7-01D3-4BDA-B30D-056C63575B7D} - OProcSessId.dat
+2026-08-28 21:18:48 [INFO] Removendo {2A640436-FDB3-4828-B8C1-7C0C9014B844} - OProcSessId.dat
+2026-08-28 21:18:48 [INFO] Removendo {3756F4A5-BAEB-4F96-A346-6C92AE324B82} - OProcSessId.dat
+2026-08-28 21:18:48 [INFO] Removendo {3F1F4644-B399-4CCF-8574-A11A998FCF81} - OProcSessId.dat
+2026-08-28 21:18:48 [INFO] Removendo {45B7501E-FD43-46B7-B18B-3E84FD347829} - OProcSessId.dat
+2026-08-28 21:18:48 [INFO] Removendo {734627CF-BC8F-4A65-A918-CE4B897884DD} - OProcSessId.dat
+2026-08-28 21:18:48 [INFO] Removendo {A4F6E5F2-43CC-4D53-AD56-CEC8A4863B9B} - OProcSessId.dat
+2026-08-28 21:18:48 [INFO] Removendo {CE9B9F8C-E5A7-43F8-924E-64F2642670E4} - OProcSessId.dat
+2026-08-28 21:18:48 [INFO] Removendo {F109060B-9A63-414F-AE5A-5C6E4FFF5635} - OProcSessId.dat
+2026-08-28 21:18:48 [INFO] Removendo CreativeCloud
+2026-08-28 21:18:48 [INFO] Removendo Intel
+2026-08-28 21:18:48 [INFO] Removendo TeamViewer
+2026-08-28 21:18:48 [INFO] Removendo _13EF70AD-A527-4BC9-B162-0D6B05BA72AC
+2026-08-28 21:18:48 [INFO] Removendo _40ED47D9-B13D-4667-9100-B8F73823E962
+2026-08-28 21:18:48 [INFO] Removendo _429607D2-615E-4CA5-BA04-0192778EFF0E
+2026-08-28 21:18:48 [INFO] Removendo _79FF08B4-C363-480D-B22D-B51F9ED342E6
+2026-08-28 21:18:48 [INFO] Removendo _7EE3712A-E53F-4A08-9AAE-21CF41A92F2B
+2026-08-28 21:18:48 [INFO] Removendo _FA8DE80D-C698-4CA6-9578-39501F0F2335
+2026-08-28 21:18:48 [INFO] Removendo 7h9rMT9hL9z2Mwuq
+2026-08-28 21:18:48 [INFO] Removendo 98M4S9HsZv8AJ1y8
+2026-08-28 21:18:48 [INFO] Removendo AdobeARM.log
+2026-08-28 21:18:48 [INFO] Removendo adobegc.log
+2026-08-28 21:18:48 [WARN] Falha ao remover C:\WINDOWS\Temp\adobegc.log: The process cannot access the file 'C:\WINDOWS\Temp\adobegc.log' because it is being used by another process.
+2026-08-28 21:18:48 [INFO] Removendo bb3a785178f443fda931098a5a9a306b.db.ses
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260822-1351.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260822-1356.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260822-1358.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260823-1636.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260823-1639.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260823-1639a.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260823-1639b.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260823-1641.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260823-1813.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260823-2310.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260824-1737.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260824-1739.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260824-1740.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260824-1741.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260824-1819.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260824-1902.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260824-2318.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-0007.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-1140.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-1140a.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-1142.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-1158.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-1244.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-1330.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-1339.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-1347.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-1352.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-1659.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-1739.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-1828.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-1838.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-1856.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-1941.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-1957.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-2004.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-2011.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-2018.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260825-2352.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260826-1821.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260826-1821a.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260826-1823.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260826-1950.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260826-1956.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260827-1548.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260827-1551.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260827-1551a.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260827-1553.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260827-1817.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260827-1837.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260827-2020.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260828-0025.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260828-0031.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260828-0034.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260828-1021.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260828-1021a.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260828-1023.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260828-1438.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260828-1551.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260828-1809.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260828-1816.log
+2026-08-28 21:18:48 [INFO] Removendo DESKTOP-8K74HJC-20260828-1933.log
+2026-08-28 21:18:48 [WARN] Falha ao remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260828-1933.log: The process cannot access the file 'C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260828-1933.log' because it is being used by another process.
+2026-08-28 21:18:48 [INFO] Removendo FlFRDARMUvpzcY5p
+2026-08-28 21:18:48 [INFO] Removendo FXSAPIDebugLogFile.txt
+2026-08-28 21:18:48 [WARN] Falha ao remover C:\WINDOWS\Temp\FXSAPIDebugLogFile.txt: The process cannot access the file 'C:\WINDOWS\Temp\FXSAPIDebugLogFile.txt' because it is being used by another process.
+2026-08-28 21:18:48 [INFO] Removendo FXSTIFFDebugLogFile.txt
+2026-08-28 21:18:48 [WARN] Falha ao remover C:\WINDOWS\Temp\FXSTIFFDebugLogFile.txt: The process cannot access the file 'C:\WINDOWS\Temp\FXSTIFFDebugLogFile.txt' because it is being used by another process.
+2026-08-28 21:18:48 [INFO] Removendo lpksetup-20260826-195112-0.log
+2026-08-28 21:18:48 [INFO] Removendo MpCmdRun.log
+2026-08-28 21:18:48 [INFO] Removendo MpSigStub.log
+2026-08-28 21:18:48 [INFO] Removendo wct2F50.tmp
+2026-08-28 21:18:48 [INFO] Removendo wct4C22.tmp
+2026-08-28 21:18:48 [INFO] Removendo wct6470.tmp
+2026-08-28 21:18:48 [INFO] Removendo wct6A4E.tmp
+2026-08-28 21:18:48 [INFO] Removendo wct712D.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctA588.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctA878.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctAB86.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctAEDF.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctB96E.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctDB5.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctF0F3.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctFB.tmp
+2026-08-28 21:18:48 [INFO] Removendo wctFCB4.tmp
+2026-08-28 21:18:48 [INFO] Removendo {0D353EAC-9165-494A-BC57-D0837AAC4EFA} - OProcSessId.dat
+2026-08-28 21:18:48 [INFO] Removendo {12247823-0C2C-48A5-9008-462652FBDB1E} - OProcSessId.dat
+2026-08-28 21:18:48 [INFO] Removendo {4A37D411-06AA-48CF-BCD8-DDF445CABAC9} - OProcSessId.dat
+2026-08-28 21:18:48 [INFO] Removendo {8BBC165E-3EEE-41D5-A168-47E7AC7EF44B} - OProcSessId.dat
+2026-08-28 21:18:48 [INFO] Removendo {CEC00B9B-37F0-4F9B-A3B1-9E3A06240515} - OProcSessId.dat
+2026-08-28 21:18:48 [INFO] Removendo {DDBA3621-535E-44E8-B17B-37105AE76EEA} - OProcSessId.dat
+2026-08-28 21:18:48 [INFO] Removendo {F65C16AC-FB5F-4F3E-9DF1-67BE66DA00ED} - OProcSessId.dat
+2026-08-28 21:18:48 [INFO] Removendo {FF95A66D-6A85-4D95-8F81-9317513549B0} - OProcSessId.dat
+2026-08-28 21:18:48 [INFO] Temporarios do Windows processados.

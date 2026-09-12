@@ -1,0 +1,120 @@
+﻿2026-08-30 18:34:57 [INFO] --- Session started: 18:34:57 ---
+2026-08-30 18:34:57 [INFO] Initialized Bug-G Tools 2.1.1-competitive-checked
+2026-08-30 18:35:04 [INFO] Encerrando AggregatorHost (PID 23240)
+2026-08-30 18:35:04 [INFO] Encerrando AGMService (PID 20472)
+2026-08-30 18:35:04 [INFO] Encerrando AppVShNotify (PID 296)
+2026-08-30 18:35:04 [INFO] Encerrando chrome (PID 2236)
+2026-08-30 18:35:04 [INFO] Encerrando chrome (PID 7176)
+2026-08-30 18:35:04 [INFO] Encerrando chrome (PID 10244)
+2026-08-30 18:35:04 [INFO] Encerrando chrome (PID 10928)
+2026-08-30 18:35:04 [INFO] Encerrando chrome (PID 12592)
+2026-08-30 18:35:04 [INFO] Encerrando chrome (PID 13660)
+2026-08-30 18:35:04 [INFO] Encerrando chrome (PID 16192)
+2026-08-30 18:35:04 [INFO] Encerrando chrome (PID 17192)
+2026-08-30 18:35:04 [INFO] Encerrando chrome (PID 22856)
+2026-08-30 18:35:08 [INFO] Encerrando com.docker.backend (PID 8712)
+2026-08-30 18:35:08 [INFO] Encerrando com.docker.backend (PID 9568)
+2026-08-30 18:35:08 [INFO] Encerrando com.docker.build (PID 19500)
+2026-08-30 18:35:08 [INFO] Encerrando CompPkgSrv (PID 9620)
+2026-08-30 18:35:08 [INFO] Encerrando Docker Desktop (PID 2524)
+2026-08-30 18:35:12 [INFO] Encerrando FileCoAuth (PID 8568)
+2026-08-30 18:35:12 [INFO] Encerrando gameoverlayui64 (PID 4304)
+2026-08-30 18:35:12 [INFO] Encerrando MoUsoCoreWorker (PID 10476)
+2026-08-30 18:35:12 [INFO] Encerrando msrdc (PID 10604)
+2026-08-30 18:35:12 [INFO] Encerrando NVIDIA Overlay (PID 7364)
+2026-08-30 18:35:12 [INFO] Encerrando NVIDIA Overlay (PID 8988)
+2026-08-30 18:35:12 [INFO] Encerrando NVIDIA Overlay (PID 11252)
+2026-08-30 18:35:12 [INFO] Encerrando NVIDIA Overlay (PID 18172)
+2026-08-30 18:35:12 [INFO] Encerrando NVIDIA Overlay (PID 21660)
+2026-08-30 18:35:12 [INFO] Encerrando nvsphelper64 (PID 5736)
+2026-08-30 18:35:12 [INFO] Encerrando OfficeClickToRun (PID 10404)
+2026-08-30 18:35:12 [INFO] Encerrando OneDrive.Sync.Service (PID 14576)
+2026-08-30 18:35:12 [INFO] Encerrando PhoneExperienceHost (PID 20324)
+2026-08-30 18:35:12 [INFO] Encerrando RuntimeBroker (PID 4028)
+2026-08-30 18:35:12 [INFO] Encerrando RuntimeBroker (PID 12252)
+2026-08-30 18:35:12 [INFO] Encerrando RuntimeBroker (PID 16984)
+2026-08-30 18:35:12 [INFO] Encerrando RuntimeBroker (PID 17132)
+2026-08-30 18:35:12 [INFO] Encerrando RuntimeBroker (PID 23276)
+2026-08-30 18:35:12 [INFO] Encerrando RuntimeBroker (PID 23984)
+2026-08-30 18:35:12 [INFO] Encerrando RuntimeBroker (PID 24884)
+2026-08-30 18:35:12 [INFO] Encerrando SearchApp (PID 6576)
+2026-08-30 18:35:12 [INFO] Encerrando SearchFilterHost (PID 5080)
+2026-08-30 18:35:12 [INFO] Encerrando SearchIndexer (PID 22216)
+2026-08-30 18:35:12 [INFO] Encerrando SearchProtocolHost (PID 10320)
+2026-08-30 18:35:12 [INFO] Encerrando ShellExperienceHost (PID 20740)
+2026-08-30 18:35:12 [INFO] Encerrando StartMenuExperienceHost (PID 21740)
+2026-08-30 18:35:12 [INFO] Encerrando TextInputHost (PID 21280)
+2026-08-30 18:35:12 [INFO] Encerrando UserOOBEBroker (PID 15996)
+2026-08-30 18:35:12 [INFO] Encerrando vmcompute (PID 528)
+2026-08-30 18:35:13 [INFO] Encerrando WindowsPackageManagerServer (PID 4632)
+2026-08-30 18:35:17 [INFO] Encerrando wslservice (PID 15024)
+2026-08-30 18:35:17 [INFO] Competitive trim: 48 processo(s) encerrado(s).
+2026-08-30 18:35:17 [INFO] Parando AppXSvc - AppX Deployment Service (AppXSVC)
+2026-08-30 18:35:18 [INFO] Parando camsvc - Capability Access Manager Service
+2026-08-30 18:35:18 [INFO] Parando cbdhsvc_21ec7b1e - Clipboard User Service_21ec7b1e
+2026-08-30 18:35:18 [INFO] Parando CDPSvc - Connected Devices Platform Service
+2026-08-30 18:35:18 [INFO] Parando CDPUserSvc_21ec7b1e - Connected Devices Platform User Service_21ec7b1e
+2026-08-30 18:35:19 [INFO] Parando DiagTrack - Connected User Experiences and Telemetry
+2026-08-30 18:35:19 [INFO] Parando DoSvc - Delivery Optimization
+2026-08-30 18:35:21 [INFO] Parando DPS - Diagnostic Policy Service
+2026-08-30 18:35:21 [INFO] Parando DsSvc - Data Sharing Service
+2026-08-30 18:35:22 [INFO] Parando hns - Host Network Service
+2026-08-30 18:35:22 [INFO] Parando InstallService - Microsoft Store Install Service
+2026-08-30 18:35:22 [INFO] Parando LanmanServer - Server
+2026-08-30 18:35:22 [INFO] Parando LicenseManager - Windows License Manager Service
+2026-08-30 18:35:23 [INFO] Parando lmhosts - TCP/IP NetBIOS Helper
+2026-08-30 18:35:23 [INFO] Parando NgcCtnrSvc - Microsoft Passport Container
+2026-08-30 18:35:23 [INFO] Parando NgcSvc - Microsoft Passport
+2026-08-30 18:35:23 [WARN] Nao foi possivel parar NgcSvc: Service 'Microsoft Passport (NgcSvc)' cannot be stopped due to the following error: Cannot open NgcSvc service on computer '.'.
+2026-08-30 18:35:23 [INFO] Parando nvagent - Network Virtualization Service
+2026-08-30 18:35:23 [INFO] Parando OneSyncSvc_21ec7b1e - Sync Host_21ec7b1e
+2026-08-30 18:35:24 [INFO] Parando PcaSvc - Program Compatibility Assistant Service
+2026-08-30 18:35:24 [INFO] Parando RmSvc - Radio Management Service
+2026-08-30 18:35:24 [WARN] Nao foi possivel parar RmSvc: Service 'Radio Management Service (RmSvc)' cannot be stopped due to the following error: Cannot stop RmSvc service on computer '.'.
+2026-08-30 18:35:24 [INFO] Parando SharedAccess - Internet Connection Sharing (ICS)
+2026-08-30 18:35:25 [INFO] Parando ShellHWDetection - Shell Hardware Detection
+2026-08-30 18:35:26 [INFO] Parando sppsvc - Software Protection
+2026-08-30 18:35:28 [WARN] Nao foi possivel parar sppsvc: Service 'Software Protection (sppsvc)' stop failed.
+2026-08-30 18:35:28 [INFO] Parando StateRepository - State Repository Service
+2026-08-30 18:35:28 [INFO] Parando SystemEventsBroker - System Events Broker
+2026-08-30 18:35:28 [WARN] Nao foi possivel parar SystemEventsBroker: Cannot stop service 'System Events Broker (SystemEventsBroker)' because it has dependent services. It can only be stopped if the Force flag is set.
+2026-08-30 18:35:28 [INFO] Parando TabletInputService - Touch Keyboard and Handwriting Panel Service
+2026-08-30 18:35:28 [WARN] Nao foi possivel parar TabletInputService: Service 'Touch Keyboard and Handwriting Panel Service (TabletInputService)' cannot be stopped due to the following error: Cannot stop TabletInputService service on computer '.'.
+2026-08-30 18:35:28 [INFO] Parando TimeBrokerSvc - Time Broker
+2026-08-30 18:35:28 [INFO] Parando TokenBroker - Web Account Manager
+2026-08-30 18:35:29 [INFO] Parando UsoSvc - Update Orchestrator Service
+2026-08-30 18:35:29 [INFO] Parando VaultSvc - Credential Manager
+2026-08-30 18:35:29 [INFO] Parando wlidsvc - Microsoft Account Sign-in Assistant
+2026-08-30 18:35:30 [INFO] Parando WpnService - Windows Push Notifications System Service
+2026-08-30 18:35:30 [INFO] Parando WpnUserService_21ec7b1e - Windows Push Notifications User Service_21ec7b1e
+2026-08-30 18:35:30 [INFO] Parando wscsvc - Security Center
+2026-08-30 18:35:30 [WARN] Nao foi possivel parar wscsvc: Service 'Security Center (wscsvc)' cannot be stopped due to the following error: Cannot open wscsvc service on computer '.'.
+2026-08-30 18:35:30 [INFO] Parando WSearch - Windows Search
+2026-08-30 18:35:30 [INFO] Competitive trim: 29 servico(s) parado(s) nesta execucao.
+2026-08-30 18:35:30 [INFO] Criando plano Bug-G Ultimate Performance
+2026-08-30 18:35:31 [INFO] Ativando plano Bug-G Ultimate Performance
+2026-08-30 18:35:33 [INFO] Plano de energia Bug-G Ultimate Performance ativo.
+2026-08-30 18:35:33 [INFO] Desativando captura em background do Xbox Game DVR
+2026-08-30 18:35:33 [INFO] Game DVR desativado.
+2026-08-30 18:35:33 [INFO] Desativando notificacoes toast
+2026-08-30 18:35:33 [INFO] Desativando notificacoes globais
+2026-08-30 18:35:33 [INFO] Desativando sugestoes e dicas do Windows
+2026-08-30 18:35:33 [INFO] Notificacoes desativadas. Pode ser necessario sair e entrar no Windows para aplicar tudo.
+2026-08-30 18:35:33 [INFO] Removendo Network Throttling
+2026-08-30 18:35:33 [INFO] Priorizando perfil Games
+2026-08-30 18:35:33 [INFO] Tweaks MMCSS aplicados.
+2026-08-30 18:35:33 [INFO] Iniciando PUBG pela Steam
+2026-08-30 18:35:33 [INFO] O jogo deve iniciar em instantes.
+2026-08-30 18:35:33 [INFO] TslGame detectado; aguardando estabilizacao do launch antes do trim final
+2026-08-30 18:35:38 [INFO] Encerrando gameoverlayui64 (PID 19524)
+2026-08-30 18:35:38 [INFO] Encerrando NVIDIA Overlay (PID 6208)
+2026-08-30 18:35:38 [INFO] Encerrando NVIDIA Overlay (PID 6868)
+2026-08-30 18:35:38 [INFO] Encerrando NVIDIA Overlay (PID 7784)
+2026-08-30 18:35:38 [INFO] Encerrando NVIDIA Overlay (PID 14588)
+2026-08-30 18:35:38 [INFO] Encerrando NVIDIA Overlay (PID 21900)
+2026-08-30 18:35:38 [INFO] Encerrando RuntimeBroker (PID 4024)
+2026-08-30 18:35:38 [INFO] Encerrando RuntimeBroker (PID 10200)
+2026-08-30 18:35:38 [INFO] Encerrando SearchApp (PID 12308)
+2026-08-30 18:35:38 [INFO] Encerrando StartMenuExperienceHost (PID 23620)
+2026-08-30 18:35:39 [INFO] Competitive trim: 10 processo(s) encerrado(s).
+2026-08-30 18:35:39 [INFO] Preset competitivo finalizado.

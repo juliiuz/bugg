@@ -1,0 +1,31 @@
+﻿Bug-G Tools report - 05/23/2026 13:57:39
+Version: 2.0-dev
+Admin: True
+Windows: Microsoft Windows 10 Pro build 19045
+CPU: 13th Gen Intel(R) Core(TM) i9-13900K
+RAM free/total GB: 15,5/31,8
+Power: Power Scheme GUID: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c  (High performance)
+Steam: C:\Program Files (x86)\Steam
+PUBG: C:\Program Files (x86)\Steam\steamapps\common\PUBG
+
+GPU:
+
+Name                      DriverVersion
+----                      -------------
+NVIDIA GeForce RTX 4070   32.0.15.9649 
+Intel(R) UHD Graphics 770 32.0.101.6129
+
+
+
+PUBG processes:
+
+ProcessName    Id       CPU WorkingSet64
+-----------    --       --- ------------
+ExecPubg     1888  0,515625     48701440
+TslGame     12152     0,125     35385344
+TslGame     18976 41,265625   2465148928
+TslGame_BE  14012  0,046875     31076352
+zksvc       19652  1,203125     50810880
+
+
+

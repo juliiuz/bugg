@@ -1,0 +1,175 @@
+{
+  "groups": [
+    {
+      "name": "Browsers",
+      "description": "Navegadores e crash handlers comuns",
+      "processes": [
+        "chrome",
+        "GoogleCrashHandler",
+        "GoogleCrashHandler64",
+        "msedge",
+        "firefox",
+        "opera",
+        "brave"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "description": "Sincronizadores de nuvem",
+      "processes": [
+        "OneDrive",
+        "GoogleDriveFS",
+        "Dropbox"
+      ]
+    },
+    {
+      "name": "Communication",
+      "description": "Comunicadores e reunioes",
+      "processes": [
+        "Skype",
+        "Teams",
+        "ms-teams",
+        "Telegram",
+        "WhatsApp",
+        "Zoom"
+      ]
+    },
+    {
+      "name": "Launchers",
+      "description": "Launchers que podem ficar em segundo plano",
+      "processes": [
+        "steamwebhelper",
+        "EpicGamesLauncher",
+        "upc",
+        "UbisoftConnect",
+        "EADesktop",
+        "Origin",
+        "Battle.net",
+        "Agent",
+        "Launcher",
+        "RockstarService"
+      ]
+    },
+    {
+      "name": "Overlays",
+      "description": "Overlays, captura e apps de jogo",
+      "processes": [
+        "NVIDIA Share",
+        "nvsphelper64",
+        "RadeonSoftware",
+        "Overwolf",
+        "GameBar",
+        "GameBarFTServer",
+        "GameBarPresenceWriter",
+        "XboxPcApp"
+      ]
+    },
+    {
+      "name": "Utilities",
+      "description": "Utilitarios variados",
+      "processes": [
+        "Adobe Desktop Service",
+        "Creative Cloud",
+        "CCXProcess",
+        "jusched",
+        "OfficeClickToRun",
+        "SearchUI",
+        "SearchIndexer",
+        "HPWuSchd2",
+        "EpsonStatusMonitor3",
+        "iCUE",
+        "ArmouryCrate",
+        "Mystic_Light",
+        "TeamViewer",
+        "AnyDesk",
+        "qbittorrent",
+        "uTorrent"
+      ]
+    }
+  ],
+  "pubg": [
+    "ExecPubg",
+    "TslGame",
+    "TslGame_BE",
+    "TslGame_UC",
+    "TslGame_ZK",
+    "zksvc"
+  ],
+  "competitive": {
+    "protectedProcesses": [
+      "System",
+      "System Idle Process",
+      "Secure System",
+      "Registry",
+      "smss",
+      "csrss",
+      "wininit",
+      "services",
+      "LsaIso",
+      "lsass",
+      "svchost",
+      "fontdrvhost",
+      "dwm",
+      "winlogon",
+      "sihost",
+      "explorer",
+      "ctfmon",
+      "conhost",
+      "dllhost",
+      "WmiPrvSE",
+      "smartscreen",
+      "SecurityHealthService",
+      "MsMpEng",
+      "MpDefenderCoreService",
+      "NisSrv",
+      "DefenderSessionHelper",
+      "audiodg",
+      "powershell",
+      "powershell_ise",
+      "pwsh",
+      "cmd",
+      "steam",
+      "steamservice",
+      "steamwebhelper",
+      "Discord",
+      "ExecPubg",
+      "TslGame*",
+      "BEService",
+      "zksvc",
+      "ucldr*",
+      "wellbia*",
+      "nvcontainer",
+      "NVDisplay.Container"
+    ],
+    "windowsKillProcesses": [
+      "AggregatorHost",
+      "CompPkgSrv",
+      "MoUsoCoreWorker",
+      "PhoneExperienceHost",
+      "RuntimeBroker",
+      "SearchApp",
+      "SearchHost",
+      "SearchIndexer",
+      "SearchProtocolHost",
+      "SearchFilterHost",
+      "ShellExperienceHost",
+      "StartMenuExperienceHost",
+      "TextInputHost",
+      "UserOOBEBroker",
+      "GameBar",
+      "GameBarFTServer",
+      "GameBarPresenceWriter",
+      "XboxPcApp",
+      "Widgets",
+      "WidgetService",
+      "YourPhone",
+      "IntelCpHDCPSvc",
+      "OneApp.IGCC.WinService",
+      "jhi_service",
+      "WMIRegistrationService",
+      "vmcompute",
+      "wslservice"
+    ],
+    "notes": "Competitive trim: all third-party processes are terminated unless protected. Windows processes are terminated only when listed in windowsKillProcesses."
+  }
+}

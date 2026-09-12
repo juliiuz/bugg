@@ -1,0 +1,921 @@
+﻿2026-06-15 14:08:14 [INFO] --- Session started: 14:08:14 ---
+2026-06-15 14:08:14 [INFO] Initialized Bug-G Tools 2.0-dev
+2026-06-15 14:08:21 [INFO] Encerrando ExecPubg
+2026-06-15 14:08:21 [INFO] Encerrando TslGame
+2026-06-15 14:08:21 [INFO] Encerrando TslGame_BE
+2026-06-15 14:08:21 [INFO] Encerrando TslGame_UC
+2026-06-15 14:08:21 [INFO] Encerrando TslGame_ZK
+2026-06-15 14:08:21 [INFO] Encerrando zksvc
+2026-06-15 14:08:21 [INFO] PUBG encerrado.
+2026-06-15 14:08:23 [INFO] Iniciando PUBG pela Steam
+2026-06-15 14:08:23 [INFO] O jogo deve iniciar em instantes.
+2026-06-15 14:08:46 [INFO] Encerrando ExecPubg
+2026-06-15 14:08:46 [INFO] Encerrando TslGame
+2026-06-15 14:08:46 [INFO] Encerrando TslGame_BE
+2026-06-15 14:08:46 [INFO] Encerrando TslGame_UC
+2026-06-15 14:08:46 [INFO] Encerrando TslGame_ZK
+2026-06-15 14:08:46 [INFO] Encerrando zksvc
+2026-06-15 14:08:46 [INFO] PUBG encerrado.
+2026-06-15 14:09:04 [INFO] Iniciando PUBG pela Steam
+2026-06-15 14:09:04 [INFO] O jogo deve iniciar em instantes.
+2026-06-15 14:25:21 [INFO] Removendo Crashes
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\TslGame\Saved\Crashes
+2026-06-15 14:25:21 [INFO] Removendo CohCache
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\TslGame\Saved\CohCache
+2026-06-15 14:25:21 [INFO] Removendo Demos
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\TslGame\Saved\Demos
+2026-06-15 14:25:21 [INFO] Removendo Dist
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\TslGame\Saved\Dist
+2026-06-15 14:25:21 [INFO] Removendo Dists
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\TslGame\Saved\Dists
+2026-06-15 14:25:21 [INFO] Removendo Logs
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\TslGame\Saved\Logs
+2026-06-15 14:25:21 [INFO] Limpeza do PUBG finalizada.
+2026-06-15 14:25:21 [INFO] Removendo 0002a93b13f58350.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\0002a93b13f58350.nvph
+2026-06-15 14:25:21 [INFO] Removendo 0002a93b1da2583c.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\0002a93b1da2583c.nvph
+2026-06-15 14:25:21 [INFO] Removendo 0002a93b31f6afee.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\0002a93b31f6afee.nvph
+2026-06-15 14:25:21 [INFO] Removendo 0002a93b3522cde7.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\0002a93b3522cde7.nvph
+2026-06-15 14:25:21 [INFO] Removendo 0002a93b43c877cd.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\0002a93b43c877cd.nvph
+2026-06-15 14:25:21 [INFO] Removendo 0002a93b6a45ffe5.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\0002a93b6a45ffe5.nvph
+2026-06-15 14:25:21 [INFO] Removendo 0002a93b784e3d05.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\0002a93b784e3d05.nvph
+2026-06-15 14:25:21 [INFO] Removendo 0002a93b9ff3bf53.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\0002a93b9ff3bf53.nvph
+2026-06-15 14:25:21 [INFO] Removendo 0002a93bae603702.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\0002a93bae603702.nvph
+2026-06-15 14:25:21 [INFO] Removendo 2000a93b28b14c53.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\2000a93b28b14c53.nvph
+2026-06-15 14:25:21 [INFO] Removendo 2000a93b9ff3bf53.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\2000a93b9ff3bf53.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b128cd128.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b128cd128.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b128cd129.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b128cd129.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b13f58350.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b13f58350.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b14cabed9.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b14cabed9.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b1da2583c.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b1da2583c.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b2117f4c4.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b2117f4c4.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b2117f4c5.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b2117f4c5.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b2117f4c6.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b2117f4c6.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b2a531b95.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b2a531b95.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b2ac6783f.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b2ac6783f.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b31f6afee.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b31f6afee.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b31f6afef.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b31f6afef.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b3522cde7.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b3522cde7.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b414b340b.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b414b340b.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b43c877cd.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b43c877cd.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b4ded1620.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b4ded1620.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b62901ecf.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b62901ecf.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b64ef8c69.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b64ef8c69.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b64ef8c6a.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b64ef8c6a.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b6a45ffe5.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b6a45ffe5.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b6a45ffe6.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b6a45ffe6.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b6a45ffe7.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b6a45ffe7.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b730a2159.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b730a2159.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b784e3d05.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b784e3d05.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b8207ceec.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b8207ceec.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93b8a9bc465.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b8a9bc465.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93bae603702.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93bae603702.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93bb1306468.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93bb1306468.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93bb1306469.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93bb1306469.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93be9786046.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93be9786046.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93be9786047.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93be9786047.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93bed53c641.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93bed53c641.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93bed53c642.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93bed53c642.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93bee9c70fa.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93bee9c70fa.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93beef9f2f8.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93beef9f2f8.nvph
+2026-06-15 14:25:21 [INFO] Removendo ecc4a93bfdfa6ecc.nvph
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93bfdfa6ecc.nvph
+2026-06-15 14:25:21 [INFO] Removendo b315786a2d10993732d5dcb76e61f3c4
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\NVIDIA\GLCache\b315786a2d10993732d5dcb76e61f3c4
+2026-06-15 14:25:21 [INFO] Removendo 1db5f3a1380cd6d3
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\D3DSCache\1db5f3a1380cd6d3
+2026-06-15 14:25:21 [INFO] Removendo 3534848bb9f4cb71
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\D3DSCache\3534848bb9f4cb71
+2026-06-15 14:25:21 [INFO] Removendo 5dc22bc232e57c76
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\D3DSCache\5dc22bc232e57c76
+2026-06-15 14:25:21 [INFO] Removendo 6c4a3154175c1245
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\D3DSCache\6c4a3154175c1245
+2026-06-15 14:25:21 [INFO] Removendo 7b9c5b6603845c51
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\D3DSCache\7b9c5b6603845c51
+2026-06-15 14:25:21 [INFO] Removendo ab326b5a64fa2db7
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\D3DSCache\ab326b5a64fa2db7
+2026-06-15 14:25:21 [INFO] Removendo c3a3fef28ca19dc
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\D3DSCache\c3a3fef28ca19dc
+2026-06-15 14:25:21 [INFO] Removendo c887a4af2c182404
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\D3DSCache\c887a4af2c182404
+2026-06-15 14:25:21 [INFO] Removendo cb00da9ba77862e
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\D3DSCache\cb00da9ba77862e
+2026-06-15 14:25:21 [INFO] Removendo ceaeb6278952c45b
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\D3DSCache\ceaeb6278952c45b
+2026-06-15 14:25:21 [INFO] Removendo d3fe7cdcb51a5ef5
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\D3DSCache\d3fe7cdcb51a5ef5
+2026-06-15 14:25:21 [INFO] Removendo ecbf0d5a3a180bb
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\D3DSCache\ecbf0d5a3a180bb
+2026-06-15 14:25:21 [INFO] Removendo efc8a4116aeaaf10
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\D3DSCache\efc8a4116aeaaf10
+2026-06-15 14:25:21 [INFO] Removendo f4d41c5d09ae781
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\D3DSCache\f4d41c5d09ae781
+2026-06-15 14:25:21 [INFO] Cache de shaders limpo.
+2026-06-15 14:25:21 [INFO] Removendo 290B.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\290B.tmp
+2026-06-15 14:25:21 [INFO] Removendo 3F8.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\3F8.tmp
+2026-06-15 14:25:21 [INFO] Removendo 8643.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\8643.tmp
+2026-06-15 14:25:21 [INFO] Removendo 9343b833-e7af-42ea-8a61-31bc41eefe2b
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\9343b833-e7af-42ea-8a61-31bc41eefe2b
+2026-06-15 14:25:21 [INFO] Removendo Diagnostics
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\Diagnostics
+2026-06-15 14:25:21 [INFO] Removendo is-AGZ04E2T7N-uninstall.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\is-AGZ04E2T7N-uninstall.tmp
+2026-06-15 14:25:21 [INFO] Removendo jna-408379270
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\jna-408379270
+2026-06-15 14:25:21 [INFO] Removendo ListSync
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\ListSync
+2026-06-15 14:25:21 [INFO] Removendo node-compile-cache
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\node-compile-cache
+2026-06-15 14:25:21 [INFO] Removendo Power BI Desktop
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\Power BI Desktop
+2026-06-15 14:25:21 [INFO] Removendo steam
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\steam
+2026-06-15 14:25:21 [INFO] Removendo system-commandline-sentinel-files
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\system-commandline-sentinel-files
+2026-06-15 14:25:21 [INFO] Removendo TeamViewer
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\TeamViewer
+2026-06-15 14:25:21 [INFO] Removendo WinGet
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\WinGet
+2026-06-15 14:25:21 [INFO] Removendo .ses
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\.ses
+2026-06-15 14:25:21 [INFO] Removendo 02ddf20a-0ef1-4c0a-aa7d-b451c2c60991.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\02ddf20a-0ef1-4c0a-aa7d-b451c2c60991.tmp
+2026-06-15 14:25:21 [INFO] Removendo 0a1c2906-07f2-4b0f-8b48-08cffba458b2.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\0a1c2906-07f2-4b0f-8b48-08cffba458b2.tmp
+2026-06-15 14:25:21 [INFO] Removendo 3941f768-c8b2-45f1-9d17-3e740a5444e8.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\3941f768-c8b2-45f1-9d17-3e740a5444e8.tmp
+2026-06-15 14:25:21 [INFO] Removendo 3db32a0d-7b4e-48cb-8654-a21342a98a66.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\3db32a0d-7b4e-48cb-8654-a21342a98a66.tmp
+2026-06-15 14:25:21 [INFO] Removendo 4bfc2814-2af3-4705-b2a1-a1b8fdc640d3.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\4bfc2814-2af3-4705-b2a1-a1b8fdc640d3.tmp
+2026-06-15 14:25:21 [INFO] Removendo 4eb82b90-6b6c-4eca-9889-a98729271e16.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\4eb82b90-6b6c-4eca-9889-a98729271e16.tmp
+2026-06-15 14:25:21 [INFO] Removendo 54c5c96d-9213-43fd-b962-71dd66a19316.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\54c5c96d-9213-43fd-b962-71dd66a19316.tmp
+2026-06-15 14:25:21 [INFO] Removendo adobegc.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\adobegc.log
+2026-06-15 14:25:21 [INFO] Removendo b615a345-3887-4091-8cda-245b6fcf7fd1.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\b615a345-3887-4091-8cda-245b6fcf7fd1.tmp
+2026-06-15 14:25:21 [INFO] Removendo b9faac85-352d-4f58-97a8-6c405a95a697.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\b9faac85-352d-4f58-97a8-6c405a95a697.tmp
+2026-06-15 14:25:21 [INFO] Removendo cv_debug.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\cv_debug.log
+2026-06-15 14:25:21 [INFO] Removendo d2688190-c4aa-46e8-959c-1e32fe097a65.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\d2688190-c4aa-46e8-959c-1e32fe097a65.tmp
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-2325.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\DESKTOP-8K74HJC-20260605-2325.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260613-2238.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\DESKTOP-8K74HJC-20260613-2238.log
+2026-06-15 14:25:21 [INFO] Removendo fd423dc7-bfd2-4673-bb7b-7d7762c2173d.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\fd423dc7-bfd2-4673-bb7b-7d7762c2173d.tmp
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-10080.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-10080.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-10148.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-10148.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-10248.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-10248.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-10316.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-10316.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-10516.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-10516.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-10600.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-10600.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-10612.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-10612.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-10664.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-10664.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-10864.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-10864.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-10968.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-10968.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-11044.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-11044.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-11168.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-11168.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-11376.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-11376.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-11468.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-11468.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-11664.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-11664.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-11820.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-11820.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-11880.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-11880.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-11992.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-11992.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-12172.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-12172.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-12524.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-12524.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-12580.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-12580.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-13420.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-13420.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-13496.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-13496.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-13868.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-13868.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-14464.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-14464.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-15004.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-15004.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-15140.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-15140.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-15268.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-15268.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-15868.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-15868.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-15872.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-15872.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-1588.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-1588.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-16192.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-16192.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-1664.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-1664.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-16696.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-16696.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-16860.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-16860.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-17168.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-17168.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-17212.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-17212.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-17372.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-17372.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-17784.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-17784.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-18000.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-18000.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-18168.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-18168.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-18308.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-18308.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-18500.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-18500.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-18640.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-18640.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-18648.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-18648.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-18712.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-18712.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-18848.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-18848.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-19368.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-19368.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-19500.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-19500.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-19580.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-19580.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-19748.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-19748.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-19780.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-19780.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-19800.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-19800.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-19860.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-19860.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-19912.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-19912.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-20208.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-20208.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-20220.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-20220.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-20244.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-20244.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-20308.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-20308.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-20464.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-20464.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-2056.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-2056.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-20760.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-20760.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-2088.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-2088.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-2092.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-2092.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-21344.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-21344.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-21916.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-21916.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-22220.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-22220.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-2236.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-2236.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-22876.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-22876.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-23108.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-23108.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-23480.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-23480.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-23556.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-23556.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-2380.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-2380.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-23836.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-23836.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-23952.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-23952.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-24032.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-24032.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-24372.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-24372.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-24604.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-24604.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-2464.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-2464.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-2656.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-2656.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-6336.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-6336.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-6796.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-6796.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-7076.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-7076.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-7332.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-7332.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-7784.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-7784.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-7988.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-7988.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-8604.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-8604.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-8756.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-8756.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-8944.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-8944.log
+2026-06-15 14:25:21 [INFO] Removendo mat-debug-9448.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\mat-debug-9448.log
+2026-06-15 14:25:21 [INFO] Removendo MpCmdRun.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\MpCmdRun.log
+2026-06-15 14:25:21 [INFO] Removendo reporter.exe
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\reporter.exe
+2026-06-15 14:25:21 [INFO] Removendo Setup Log 2026-06-06 #001.txt
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\Setup Log 2026-06-06 #001.txt
+2026-06-15 14:25:21 [INFO] Removendo Squirrel-Uninstall.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\Squirrel-Uninstall.log
+2026-06-15 14:25:21 [INFO] Removendo StructuredQuery.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\StructuredQuery.log
+2026-06-15 14:25:21 [INFO] Removendo wct19FE.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct19FE.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct19FF.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct19FF.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct2237.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct2237.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct2249.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct2249.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct2976.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct2976.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct319C.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct319C.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct3498.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct3498.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct3C6C.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct3C6C.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct3DF7.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct3DF7.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct4F24.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct4F24.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct5321.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct5321.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct5322.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct5322.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct565D.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct565D.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct5C75.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct5C75.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct699D.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct699D.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct700A.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct700A.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct80C0.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct80C0.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct82CB.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct82CB.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct83B3.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct83B3.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct87D2.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct87D2.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct885A.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct885A.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct88D8.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct88D8.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct8C5D.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct8C5D.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct919E.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct919E.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct922F.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct922F.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct985D.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct985D.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct9989.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wct9989.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctA415.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wctA415.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctB10.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wctB10.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctB3A2.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wctB3A2.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctB3B0.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wctB3B0.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctB7F2.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wctB7F2.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctB7F3.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wctB7F3.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctBD01.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wctBD01.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctBF82.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wctBF82.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctC000.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wctC000.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctC289.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wctC289.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctC649.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wctC649.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctCD05.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wctCD05.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctDFC5.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wctDFC5.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctF732.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wctF732.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctFC1D.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wctFC1D.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctFCBB.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wctFCBB.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctFDD.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\Users\julia\AppData\Local\Temp\wctFDD.tmp
+2026-06-15 14:25:21 [INFO] Removendo CreativeCloud
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\CreativeCloud
+2026-06-15 14:25:21 [INFO] Removendo Intel
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\Intel
+2026-06-15 14:25:21 [INFO] Removendo TeamViewer
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\TeamViewer
+2026-06-15 14:25:21 [INFO] Removendo _2CBC826C-4A72-4281-8937-14656587F9FF
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\_2CBC826C-4A72-4281-8937-14656587F9FF
+2026-06-15 14:25:21 [INFO] Removendo _8F7381C7-5257-4755-95CE-5B50EEF93844
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\_8F7381C7-5257-4755-95CE-5B50EEF93844
+2026-06-15 14:25:21 [INFO] Removendo _CCCB5AAA-F44A-4E1F-B1AC-E8EF58064C3A
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\_CCCB5AAA-F44A-4E1F-B1AC-E8EF58064C3A
+2026-06-15 14:25:21 [INFO] Removendo _FE66F5FA-906F-461D-AEBB-3B7AB5F8558C
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\_FE66F5FA-906F-461D-AEBB-3B7AB5F8558C
+2026-06-15 14:25:21 [INFO] Removendo 5uUwRCuFfHpPVZLd
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\5uUwRCuFfHpPVZLd
+2026-06-15 14:25:21 [INFO] Removendo 6hFDsGURQrcZ5Y1y
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\6hFDsGURQrcZ5Y1y
+2026-06-15 14:25:21 [INFO] Removendo 9yvwNOrM6RFX4pS7
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\9yvwNOrM6RFX4pS7
+2026-06-15 14:25:21 [INFO] Removendo AdobeARM.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\AdobeARM.log
+2026-06-15 14:25:21 [INFO] Removendo adobegc.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\adobegc.log
+2026-06-15 14:25:21 [INFO] Removendo bb3a785178f443fda931098a5a9a306b.db.ses
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\bb3a785178f443fda931098a5a9a306b.db.ses
+2026-06-15 14:25:21 [INFO] Removendo dd_vcredist_amd64_20260605232455.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\dd_vcredist_amd64_20260605232455.log
+2026-06-15 14:25:21 [INFO] Removendo dd_vcredist_amd64_20260613223757.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\dd_vcredist_amd64_20260613223757.log
+2026-06-15 14:25:21 [INFO] Removendo dd_vcredist_x86_20260605232500.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\dd_vcredist_x86_20260605232500.log
+2026-06-15 14:25:21 [INFO] Removendo dd_vcredist_x86_20260613223803.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\dd_vcredist_x86_20260613223803.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-0106.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-0106.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-0118.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-0118.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-1035.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-1035.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-1040.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-1040.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-1042.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-1042.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-1042a.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-1042a.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-1047.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-1047.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-1053.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-1053.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-1104.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-1104.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-1111.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-1111.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-1153.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-1153.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-1339.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-1339.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-1405.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-1405.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-1419.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-1419.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-1428.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-1428.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-1501.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-1501.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-1515.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-1515.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-1551.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-1551.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-1613.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-1613.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-1647.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-1647.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-1742.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-1742.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-2324.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-2324.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-2324a.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-2324a.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-2324b.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-2324b.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-2324c.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-2324c.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-2324d.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-2324d.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260605-2325.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260605-2325.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260606-0000.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260606-0000.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260606-0047.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260606-0047.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260606-1027.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260606-1027.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260606-1032.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260606-1032.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260606-1036.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260606-1036.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260606-1036a.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260606-1036a.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260606-1837.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260606-1837.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260606-2258.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260606-2258.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260607-1601.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260607-1601.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260607-1604.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260607-1604.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260607-1604a.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260607-1604a.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260607-1604b.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260607-1604b.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260607-1606.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260607-1606.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260608-1825.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260608-1825.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260608-1828.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260608-1828.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260608-1828a.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260608-1828a.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260608-1830.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260608-1830.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260608-1836.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260608-1836.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260608-2224.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260608-2224.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260608-2330.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260608-2330.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-0824.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-0824.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-0824a.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-0824a.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-0826.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-0826.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-0832.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-0832.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-0858.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-0858.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-0925.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-0925.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1008.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1008.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1017.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1017.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1027.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1027.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1038.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1038.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1045.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1045.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1102.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1102.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1132.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1132.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1242.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1242.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1321.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1321.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1344.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1344.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1453.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1453.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1504.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1504.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1521.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1521.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1549.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1549.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1608.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1608.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1616.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1616.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1621.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1621.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1643.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1643.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1654.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1654.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1716.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1716.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1729.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1729.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1737.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1737.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1949.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1949.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-1954.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-1954.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-2054.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-2054.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-2059.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-2059.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260609-2212.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260609-2212.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260610-0859.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260610-0859.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260610-0902.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260610-0902.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260610-0904.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260610-0904.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260610-0913.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260610-0913.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260610-0932.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260610-0932.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260610-0950.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260610-0950.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260610-1022.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260610-1022.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260610-1046.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260610-1046.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260610-1127.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260610-1127.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260610-1143.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260610-1143.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260610-1216.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260610-1216.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260610-1317.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260610-1317.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260610-1401.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260610-1401.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260610-1427.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260610-1427.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260610-1454.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260610-1454.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260610-1532.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260610-1532.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260610-1735.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260610-1735.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260610-1825.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260610-1825.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260610-2352.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260610-2352.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260611-2016.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260611-2016.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260611-2019.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260611-2019.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260611-2019a.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260611-2019a.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260611-2021.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260611-2021.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260611-2309.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260611-2309.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260613-2236.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260613-2236.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260613-2236a.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260613-2236a.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260613-2237.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260613-2237.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260613-2237a.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260613-2237a.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260613-2237b.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260613-2237b.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260613-2238.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260613-2238.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260614-0126.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260614-0126.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260614-1653.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260614-1653.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260614-1655.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260614-1655.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260614-1655a.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260614-1655a.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260614-1658.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260614-1658.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260615-1404.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260615-1404.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260615-1409.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260615-1409.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260615-1409a.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260615-1409a.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260615-1412.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260615-1412.log
+2026-06-15 14:25:21 [INFO] Removendo DESKTOP-8K74HJC-20260615-1412a.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260615-1412a.log
+2026-06-15 14:25:21 [INFO] Removendo FXSAPIDebugLogFile.txt
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\FXSAPIDebugLogFile.txt
+2026-06-15 14:25:21 [INFO] Removendo FXSTIFFDebugLogFile.txt
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\FXSTIFFDebugLogFile.txt
+2026-06-15 14:25:21 [INFO] Removendo i8vFYz79V9RIPc09
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\i8vFYz79V9RIPc09
+2026-06-15 14:25:21 [INFO] Removendo lpksetup-20260605-103557-0.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\lpksetup-20260605-103557-0.log
+2026-06-15 14:25:21 [INFO] Removendo lpksetup-20260606-102709-0.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\lpksetup-20260606-102709-0.log
+2026-06-15 14:25:21 [INFO] Removendo lpksetup-20260609-205425-0.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\lpksetup-20260609-205425-0.log
+2026-06-15 14:25:21 [INFO] Removendo lpksetup-20260615-140412-0.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\lpksetup-20260615-140412-0.log
+2026-06-15 14:25:21 [INFO] Removendo MpCmdRun.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\MpCmdRun.log
+2026-06-15 14:25:21 [INFO] Removendo MpSigStub.log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\MpSigStub.log
+2026-06-15 14:25:21 [INFO] Removendo perfboost.exe_c2rdll(2026060523244450B0).log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\perfboost.exe_c2rdll(2026060523244450B0).log
+2026-06-15 14:25:21 [INFO] Removendo perfboost.exe_c2rdll(2026061322374523B0).log
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\perfboost.exe_c2rdll(2026061322374523B0).log
+2026-06-15 14:25:21 [INFO] Removendo ucHJun8chw5Gm7Yi
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\ucHJun8chw5Gm7Yi
+2026-06-15 14:25:21 [INFO] Removendo wct1E0A.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wct1E0A.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct2127.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wct2127.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct3675.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wct3675.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct54E6.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wct54E6.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct58A0.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wct58A0.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct5B7A.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wct5B7A.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct6165.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wct6165.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct8C5F.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wct8C5F.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct91E1.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wct91E1.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct952F.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wct952F.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct96F4.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wct96F4.tmp
+2026-06-15 14:25:21 [INFO] Removendo wct9989.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wct9989.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctB835.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wctB835.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctBBBB.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wctBBBB.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctC289.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wctC289.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctC51B.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wctC51B.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctDFA6.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wctDFA6.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctE3F3.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wctE3F3.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctF31E.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wctF31E.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctF5A0.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wctF5A0.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctF7CC.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wctF7CC.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctF7F8.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wctF7F8.tmp
+2026-06-15 14:25:21 [INFO] Removendo wctFA5C.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wctFA5C.tmp
+2026-06-15 14:25:21 [INFO] Removendo WER5B97.tmp
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\WER5B97.tmp
+2026-06-15 14:25:21 [INFO] Removendo wsl-install-log.txt
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\wsl-install-log.txt
+2026-06-15 14:25:21 [INFO] Removendo {1DB084C6-2E5A-469D-A277-23329F910511} - OProcSessId.dat
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\{1DB084C6-2E5A-469D-A277-23329F910511} - OProcSessId.dat
+2026-06-15 14:25:21 [INFO] Removendo {3EE115E9-4386-428D-9B7D-033C383D5C84} - OProcSessId.dat
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\{3EE115E9-4386-428D-9B7D-033C383D5C84} - OProcSessId.dat
+2026-06-15 14:25:21 [INFO] Removendo {823292C6-71CC-442D-B434-EB992FF76750} - OProcSessId.dat
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\{823292C6-71CC-442D-B434-EB992FF76750} - OProcSessId.dat
+2026-06-15 14:25:21 [INFO] Removendo {F365646C-0D08-44D1-9B29-7B30CDD243A0} - OProcSessId.dat
+2026-06-15 14:25:21 [WARN] Simulacao: remover C:\WINDOWS\Temp\{F365646C-0D08-44D1-9B29-7B30CDD243A0} - OProcSessId.dat
+2026-06-15 14:25:21 [INFO] Temporarios do Windows processados.
+2026-06-15 14:25:30 [INFO] Removendo 0002a93b13f58350.nvph
+2026-06-15 14:25:30 [INFO] Removendo 0002a93b1da2583c.nvph
+2026-06-15 14:25:30 [INFO] Removendo 0002a93b31f6afee.nvph
+2026-06-15 14:25:30 [INFO] Removendo 0002a93b3522cde7.nvph
+2026-06-15 14:25:30 [INFO] Removendo 0002a93b43c877cd.nvph
+2026-06-15 14:25:30 [INFO] Removendo 0002a93b6a45ffe5.nvph
+2026-06-15 14:25:30 [INFO] Removendo 0002a93b784e3d05.nvph
+2026-06-15 14:25:30 [INFO] Removendo 0002a93b9ff3bf53.nvph
+2026-06-15 14:25:30 [INFO] Removendo 0002a93bae603702.nvph
+2026-06-15 14:25:30 [INFO] Removendo 2000a93b28b14c53.nvph
+2026-06-15 14:25:30 [INFO] Removendo 2000a93b9ff3bf53.nvph
+2026-06-15 14:25:30 [INFO] Removendo ecc4a93b128cd128.nvph
+2026-06-15 14:25:30 [INFO] Removendo ecc4a93b128cd129.nvph
+2026-06-15 14:25:30 [INFO] Removendo ecc4a93b13f58350.nvph
+2026-06-15 14:25:30 [INFO] Removendo ecc4a93b14cabed9.nvph
+2026-06-15 14:25:30 [INFO] Removendo ecc4a93b1da2583c.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b2117f4c4.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b2117f4c5.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b2117f4c6.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b2a531b95.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b2ac6783f.nvph
+2026-06-15 14:25:31 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b2ac6783f.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b2ac6783f.nvph' because it is being used by another process.
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b31f6afee.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b31f6afef.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b3522cde7.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b414b340b.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b43c877cd.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b4ded1620.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b62901ecf.nvph
+2026-06-15 14:25:31 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b62901ecf.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b62901ecf.nvph' because it is being used by another process.
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b64ef8c69.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b64ef8c6a.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b6a45ffe5.nvph
+2026-06-15 14:25:31 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b6a45ffe5.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b6a45ffe5.nvph' because it is being used by another process.
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b6a45ffe6.nvph
+2026-06-15 14:25:31 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b6a45ffe6.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b6a45ffe6.nvph' because it is being used by another process.
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b6a45ffe7.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b730a2159.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b784e3d05.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b8207ceec.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93b8a9bc465.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93bae603702.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93bb1306468.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93bb1306469.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93be9786046.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93be9786047.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93bed53c641.nvph
+2026-06-15 14:25:31 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93bed53c641.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93bed53c641.nvph' because it is being used by another process.
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93bed53c642.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93bee9c70fa.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93beef9f2f8.nvph
+2026-06-15 14:25:31 [INFO] Removendo ecc4a93bfdfa6ecc.nvph
+2026-06-15 14:25:31 [INFO] Removendo b315786a2d10993732d5dcb76e61f3c4
+2026-06-15 14:25:31 [INFO] Removendo 1db5f3a1380cd6d3
+2026-06-15 14:25:31 [INFO] Removendo 3534848bb9f4cb71
+2026-06-15 14:25:31 [INFO] Removendo 5dc22bc232e57c76
+2026-06-15 14:25:31 [INFO] Removendo 6c4a3154175c1245
+2026-06-15 14:25:31 [INFO] Removendo 7b9c5b6603845c51
+2026-06-15 14:25:31 [INFO] Removendo ab326b5a64fa2db7
+2026-06-15 14:25:31 [INFO] Removendo c3a3fef28ca19dc
+2026-06-15 14:25:31 [INFO] Removendo c887a4af2c182404
+2026-06-15 14:25:31 [INFO] Removendo cb00da9ba77862e
+2026-06-15 14:25:31 [INFO] Removendo ceaeb6278952c45b
+2026-06-15 14:25:31 [INFO] Removendo d3fe7cdcb51a5ef5
+2026-06-15 14:25:31 [INFO] Removendo ecbf0d5a3a180bb
+2026-06-15 14:25:31 [INFO] Removendo efc8a4116aeaaf10
+2026-06-15 14:25:31 [INFO] Removendo f4d41c5d09ae781
+2026-06-15 14:25:31 [INFO] Cache de shaders limpo.

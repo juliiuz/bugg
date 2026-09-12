@@ -1,0 +1,201 @@
+﻿2026-05-23 13:46:47 [INFO] --- Session started: 13:46:47 ---
+2026-05-23 13:46:47 [INFO] Initialized Bug-G Tools 2.0-dev
+2026-05-23 13:46:47 [INFO] Base modular carregada
+2026-05-23 13:47:06 [INFO] Removendo Crashes
+2026-05-23 13:47:06 [WARN] Nao encontrado: C:\Users\julia\AppData\Local\TslGame\Saved\Crashes
+2026-05-23 13:47:06 [INFO] Removendo CohCache
+2026-05-23 13:47:06 [INFO] Removendo Demos
+2026-05-23 13:47:06 [INFO] Removendo Dist
+2026-05-23 13:47:06 [WARN] Nao encontrado: C:\Users\julia\AppData\Local\TslGame\Saved\Dist
+2026-05-23 13:47:06 [INFO] Removendo Dists
+2026-05-23 13:47:06 [INFO] Removendo Logs
+2026-05-23 13:47:06 [INFO] Removendo IntegrityCheck
+2026-05-23 13:47:06 [INFO] Limpeza do PUBG finalizada.
+2026-05-23 13:47:06 [INFO] Removendo 0002a93b13f58350.nvph
+2026-05-23 13:47:06 [INFO] Removendo 0002a93b1da2583c.nvph
+2026-05-23 13:47:06 [INFO] Removendo 0002a93b31f6afee.nvph
+2026-05-23 13:47:06 [INFO] Removendo 0002a93b43c877cd.nvph
+2026-05-23 13:47:06 [INFO] Removendo 0002a93b6a45ffe5.nvph
+2026-05-23 13:47:06 [INFO] Removendo 0002a93b9ff3bf53.nvph
+2026-05-23 13:47:06 [INFO] Removendo 0002a93bae603702.nvph
+2026-05-23 13:47:06 [INFO] Removendo 2000a93b9ff3bf53.nvph
+2026-05-23 13:47:06 [INFO] Removendo 23e0a93b2ac6783f.nvph
+2026-05-23 13:47:06 [INFO] Removendo 23e0a93b62901ecf.nvph
+2026-05-23 13:47:06 [INFO] Removendo ecc4a93b128cd128.nvph
+2026-05-23 13:47:06 [INFO] Removendo ecc4a93b128cd129.nvph
+2026-05-23 13:47:06 [INFO] Removendo ecc4a93b13f58350.nvph
+2026-05-23 13:47:06 [INFO] Removendo ecc4a93b1da2583c.nvph
+2026-05-23 13:47:06 [INFO] Removendo ecc4a93b2a531b95.nvph
+2026-05-23 13:47:06 [INFO] Removendo ecc4a93b2ac6783f.nvph
+2026-05-23 13:47:06 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b2ac6783f.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b2ac6783f.nvph' because it is being used by another process.
+2026-05-23 13:47:06 [INFO] Removendo ecc4a93b31f6afee.nvph
+2026-05-23 13:47:06 [INFO] Removendo ecc4a93b31f6afef.nvph
+2026-05-23 13:47:06 [INFO] Removendo ecc4a93b414b340b.nvph
+2026-05-23 13:47:06 [INFO] Removendo ecc4a93b43c877cd.nvph
+2026-05-23 13:47:06 [INFO] Removendo ecc4a93b62901ecf.nvph
+2026-05-23 13:47:06 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b62901ecf.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b62901ecf.nvph' because it is being used by another process.
+2026-05-23 13:47:06 [INFO] Removendo ecc4a93b64ef8c69.nvph
+2026-05-23 13:47:06 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b64ef8c69.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b64ef8c69.nvph' because it is being used by another process.
+2026-05-23 13:47:06 [INFO] Removendo ecc4a93b64ef8c6a.nvph
+2026-05-23 13:47:06 [INFO] Removendo ecc4a93b6a45ffe5.nvph
+2026-05-23 13:47:06 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b6a45ffe5.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b6a45ffe5.nvph' because it is being used by another process.
+2026-05-23 13:47:06 [INFO] Removendo ecc4a93b6a45ffe6.nvph
+2026-05-23 13:47:06 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b6a45ffe6.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b6a45ffe6.nvph' because it is being used by another process.
+2026-05-23 13:47:06 [INFO] Removendo ecc4a93b6a45ffe7.nvph
+2026-05-23 13:47:06 [INFO] Removendo ecc4a93b730a2159.nvph
+2026-05-23 13:47:06 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b730a2159.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b730a2159.nvph' because it is being used by another process.
+2026-05-23 13:47:06 [INFO] Removendo ecc4a93bae603702.nvph
+2026-05-23 13:47:06 [INFO] Removendo ecc4a93bed53c641.nvph
+2026-05-23 13:47:06 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93bed53c641.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93bed53c641.nvph' because it is being used by another process.
+2026-05-23 13:47:06 [INFO] Removendo ecc4a93bfdfa6ecc.nvph
+2026-05-23 13:47:07 [INFO] Removendo b315786a2d10993732d5dcb76e61f3c4
+2026-05-23 13:47:07 [INFO] Removendo 1db5f3a1380cd6d3
+2026-05-23 13:47:07 [INFO] Removendo 6c4a3154175c1245
+2026-05-23 13:47:07 [INFO] Removendo 9eb1b85b1f3520c0
+2026-05-23 13:47:07 [INFO] Removendo ab326b5a64fa2db7
+2026-05-23 13:47:07 [INFO] Removendo c887a4af2c182404
+2026-05-23 13:47:07 [INFO] Removendo cb00da9ba77862e
+2026-05-23 13:47:07 [INFO] Removendo ceaeb6278952c45b
+2026-05-23 13:47:07 [INFO] Removendo df0a610863c73074
+2026-05-23 13:47:07 [INFO] Cache de shaders limpo.
+2026-05-23 13:47:07 [INFO] Removendo 0a12724b-3587-4731-8676-2a26a2ff398d
+2026-05-23 13:47:07 [INFO] Removendo 1219f07a-5bc7-49b4-81ec-b63a0d652a3c
+2026-05-23 13:47:07 [INFO] Removendo 19DA.tmp
+2026-05-23 13:47:07 [INFO] Removendo 1ad9a53b-d041-41eb-8b70-a5be4f73b866
+2026-05-23 13:47:07 [INFO] Removendo 1efc5447-f29d-4203-ae48-497ebb930753
+2026-05-23 13:47:07 [INFO] Removendo 2e29c73e-c8a9-452a-82b6-9c3e88108558
+2026-05-23 13:47:07 [INFO] Removendo 3a348afa-6717-4bdc-8e98-a59cf9e0f06e
+2026-05-23 13:47:07 [INFO] Removendo 61af6303-cc00-4f8b-8c12-a77cc086006f
+2026-05-23 13:47:07 [INFO] Removendo 673958b8-146d-4f1d-bdb1-a281d8c2ad72
+2026-05-23 13:47:07 [INFO] Removendo 6c82a9cb-9833-441c-8e35-3b90adf82601
+2026-05-23 13:47:07 [INFO] Removendo 70e56f85-fdd1-4c06-ac4c-2e4fe6f2ea8f
+2026-05-23 13:47:07 [INFO] Removendo 753a9358-87a5-4966-b5e1-5483e4e24109
+2026-05-23 13:47:07 [INFO] Removendo 7e84b36f-7a4c-49cc-9639-e13410aceb2a
+2026-05-23 13:47:07 [INFO] Removendo 99c1abf2-c444-450c-b8e4-a089cef6e9fd
+2026-05-23 13:47:07 [INFO] Removendo 9a2b8d60-c999-4418-b720-c2ebf76cad6d
+2026-05-23 13:47:07 [INFO] Removendo 9b5a72b3-b87d-480a-97bf-82f96bb24085
+2026-05-23 13:47:07 [INFO] Removendo 9df4f0c7-3cf0-4680-9921-8c1ac375f2f6
+2026-05-23 13:47:07 [INFO] Removendo afc24f6f-b9ab-43c9-86fa-6bc5b67fad45
+2026-05-23 13:47:07 [INFO] Removendo b79f0527-a50e-431e-9ad5-ce331043912b
+2026-05-23 13:47:07 [INFO] Removendo b96fc7b9-0fb3-4d64-9e52-772d2964515b
+2026-05-23 13:47:07 [INFO] Removendo bf9fdcf2-be8b-4b81-9cfd-3c309ede985b
+2026-05-23 13:47:07 [INFO] Removendo c5eee373-f049-40d8-9ad8-a2f74be1a704
+2026-05-23 13:47:07 [INFO] Removendo cfcb3b35-8665-4704-89f0-ba170aec2f55
+2026-05-23 13:47:07 [INFO] Removendo claude
+2026-05-23 13:47:07 [INFO] Removendo d0f3891f-af17-4baf-95b6-af852d29061e
+2026-05-23 13:47:07 [INFO] Removendo E942.tmp
+2026-05-23 13:47:07 [INFO] Removendo ed38f81d-35f2-460e-be88-da8560339c7f
+2026-05-23 13:47:07 [INFO] Removendo f0c61f54-0232-41be-9b0d-62f3397fab1b
+2026-05-23 13:47:07 [INFO] Removendo f305eb11-6a44-4247-a66a-afe8a4f520d2
+2026-05-23 13:47:07 [INFO] Removendo f350a319-14fa-48df-b7ed-53f56cfa5961
+2026-05-23 13:47:07 [INFO] Removendo f8d66fcc-b3ec-494d-b0da-445fac233f47
+2026-05-23 13:47:07 [INFO] Removendo MashupMipDirectory0
+2026-05-23 13:47:07 [INFO] Removendo MashupMipDirectory1
+2026-05-23 13:47:07 [INFO] Removendo MSBuildTemp
+2026-05-23 13:47:07 [INFO] Removendo node-compile-cache
+2026-05-23 13:47:07 [INFO] Removendo NuGetScratch
+2026-05-23 13:47:07 [INFO] Removendo Power BI Desktop
+2026-05-23 13:47:07 [INFO] Removendo steam
+2026-05-23 13:47:07 [INFO] Removendo vscode-typescript
+2026-05-23 13:47:07 [INFO] Removendo .daba3fbedfd7dde7-00000000.node
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\.daba3fbedfd7dde7-00000000.node: Access to the path 'C:\Users\julia\AppData\Local\Temp\.daba3fbedfd7dde7-00000000.node' is denied.
+2026-05-23 13:47:07 [INFO] Removendo .ses
+2026-05-23 13:47:07 [INFO] Removendo 27e49484-ab02-4728-a879-d2a6e6f8454b.tmp
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\27e49484-ab02-4728-a879-d2a6e6f8454b.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\27e49484-ab02-4728-a879-d2a6e6f8454b.tmp' because it is being used by another process.
+2026-05-23 13:47:07 [INFO] Removendo 41b98ad7-a31f-4058-81cb-994b72d9f3c6.tmp
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\41b98ad7-a31f-4058-81cb-994b72d9f3c6.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\41b98ad7-a31f-4058-81cb-994b72d9f3c6.tmp' because it is being used by another process.
+2026-05-23 13:47:07 [INFO] Removendo 5a879345-58e8-4981-91e5-8a262ae15225.tmp
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\5a879345-58e8-4981-91e5-8a262ae15225.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\5a879345-58e8-4981-91e5-8a262ae15225.tmp' because it is being used by another process.
+2026-05-23 13:47:07 [INFO] Removendo 64ed01b9-e8bc-498b-873c-825d83c7c0e3.tmp
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\64ed01b9-e8bc-498b-873c-825d83c7c0e3.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\64ed01b9-e8bc-498b-873c-825d83c7c0e3.tmp' because it is being used by another process.
+2026-05-23 13:47:07 [INFO] Removendo 708eea44-7db6-4183-b3d2-37d297ce383b.tmp
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\708eea44-7db6-4183-b3d2-37d297ce383b.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\708eea44-7db6-4183-b3d2-37d297ce383b.tmp' because it is being used by another process.
+2026-05-23 13:47:07 [INFO] Removendo 7666196b-6bec-4b3f-a269-7f828484353e.tmp
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\7666196b-6bec-4b3f-a269-7f828484353e.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\7666196b-6bec-4b3f-a269-7f828484353e.tmp' because it is being used by another process.
+2026-05-23 13:47:07 [INFO] Removendo 86f01522-ba48-4679-96f0-06dc8ccc8e3c.tmp
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\86f01522-ba48-4679-96f0-06dc8ccc8e3c.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\86f01522-ba48-4679-96f0-06dc8ccc8e3c.tmp' because it is being used by another process.
+2026-05-23 13:47:07 [INFO] Removendo 8a572d6d-da67-4cf4-a4ca-c6421644a640.tmp
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\8a572d6d-da67-4cf4-a4ca-c6421644a640.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\8a572d6d-da67-4cf4-a4ca-c6421644a640.tmp' because it is being used by another process.
+2026-05-23 13:47:07 [INFO] Removendo 9673be3d-847e-4535-9c89-e242daf02c4c.tmp
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\9673be3d-847e-4535-9c89-e242daf02c4c.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\9673be3d-847e-4535-9c89-e242daf02c4c.tmp' because it is being used by another process.
+2026-05-23 13:47:07 [INFO] Removendo 9b8789a9-4fcc-4f3d-bf8a-55125e5ab79b.tmp
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\9b8789a9-4fcc-4f3d-bf8a-55125e5ab79b.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\9b8789a9-4fcc-4f3d-bf8a-55125e5ab79b.tmp' because it is being used by another process.
+2026-05-23 13:47:07 [INFO] Removendo adobegc.log
+2026-05-23 13:47:07 [INFO] Removendo cc20332d-a434-4319-91fe-bbc3de297998.tmp
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\cc20332d-a434-4319-91fe-bbc3de297998.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\cc20332d-a434-4319-91fe-bbc3de297998.tmp' because it is being used by another process.
+2026-05-23 13:47:07 [INFO] Removendo d7c709cc-2705-4334-8b25-e65a88f8b881.tmp
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\d7c709cc-2705-4334-8b25-e65a88f8b881.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\d7c709cc-2705-4334-8b25-e65a88f8b881.tmp' because it is being used by another process.
+2026-05-23 13:47:07 [INFO] Removendo ddcbfce4-878f-4a50-b9c8-fb9b7cfb0e27.tmp
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\ddcbfce4-878f-4a50-b9c8-fb9b7cfb0e27.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\ddcbfce4-878f-4a50-b9c8-fb9b7cfb0e27.tmp' because it is being used by another process.
+2026-05-23 13:47:07 [INFO] Removendo de000018-3d76-4e07-8e20-5962b0f230ab.tmp
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\de000018-3d76-4e07-8e20-5962b0f230ab.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\de000018-3d76-4e07-8e20-5962b0f230ab.tmp' because it is being used by another process.
+2026-05-23 13:47:07 [INFO] Removendo f226c495-6010-402e-9b2b-5c9565938fdb.tmp
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\f226c495-6010-402e-9b2b-5c9565938fdb.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\f226c495-6010-402e-9b2b-5c9565938fdb.tmp' because it is being used by another process.
+2026-05-23 13:47:07 [INFO] Removendo fc7fad96-8467-438c-aa0b-38c18fc4d9c6.tmp
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\Users\julia\AppData\Local\Temp\fc7fad96-8467-438c-aa0b-38c18fc4d9c6.tmp: The process cannot access the file 'C:\Users\julia\AppData\Local\Temp\fc7fad96-8467-438c-aa0b-38c18fc4d9c6.tmp' because it is being used by another process.
+2026-05-23 13:47:07 [INFO] Removendo mat-debug-12900.log
+2026-05-23 13:47:07 [INFO] Removendo mat-debug-15968.log
+2026-05-23 13:47:07 [INFO] Removendo mat-debug-17456.log
+2026-05-23 13:47:07 [INFO] Removendo mat-debug-1764.log
+2026-05-23 13:47:07 [INFO] Removendo mat-debug-19188.log
+2026-05-23 13:47:07 [INFO] Removendo mat-debug-25848.log
+2026-05-23 13:47:07 [INFO] Removendo mat-debug-3524.log
+2026-05-23 13:47:07 [INFO] Removendo mat-debug-9984.log
+2026-05-23 13:47:07 [INFO] Removendo Microsoft.NET.Workload_11708_20260523_133743_640.log
+2026-05-23 13:47:07 [INFO] Removendo Microsoft.NET.Workload_14552_20260523_133641_078.log
+2026-05-23 13:47:07 [INFO] Removendo Microsoft.NET.Workload_15492_20260523_133553_550.log
+2026-05-23 13:47:07 [INFO] Removendo Microsoft.NET.Workload_16068_20260523_133627_738.log
+2026-05-23 13:47:07 [INFO] Removendo Microsoft.NET.Workload_16740_20260523_133520_501.log
+2026-05-23 13:47:07 [INFO] Removendo Microsoft.NET.Workload_17024_20260523_133754_545.log
+2026-05-23 13:47:07 [INFO] Removendo Microsoft.NET.Workload_19972_20260523_133609_971.log
+2026-05-23 13:47:07 [INFO] Removendo Microsoft.NET.Workload_20800_20260523_133620_647.log
+2026-05-23 13:47:07 [INFO] Removendo Microsoft.NET.Workload_2112_20260523_133803_706.log
+2026-05-23 13:47:07 [INFO] Removendo Microsoft.NET.Workload_22320_20260523_133544_579.log
+2026-05-23 13:47:07 [INFO] Removendo Microsoft.NET.Workload_22668_20260523_133641_077.log
+2026-05-23 13:47:07 [INFO] Removendo Microsoft.NET.Workload_22840_20260523_133609_837.log
+2026-05-23 13:47:07 [INFO] Removendo Microsoft.NET.Workload_6024_20260523_133732_609.log
+2026-05-23 13:47:07 [INFO] Removendo Microsoft.NET.Workload_7228_20260523_133732_469.log
+2026-05-23 13:47:07 [INFO] Removendo reporter.exe
+2026-05-23 13:47:07 [INFO] Removendo wctE100.tmp
+2026-05-23 13:47:07 [INFO] Removendo AdobeARM.log
+2026-05-23 13:47:07 [INFO] Removendo adobegc.log
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\WINDOWS\Temp\adobegc.log: The process cannot access the file 'C:\WINDOWS\Temp\adobegc.log' because it is being used by another process.
+2026-05-23 13:47:07 [INFO] Removendo DESKTOP-8K74HJC-20260522-1802.log
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260522-1802.log: The process cannot access the file 'C:\WINDOWS\Temp\DESKTOP-8K74HJC-20260522-1802.log' because it is being used by another process.
+2026-05-23 13:47:07 [INFO] Removendo DESKTOP-8K74HJC-20260523-0033.log
+2026-05-23 13:47:07 [INFO] Removendo DESKTOP-8K74HJC-20260523-0040.log
+2026-05-23 13:47:07 [INFO] Removendo DESKTOP-8K74HJC-20260523-1108.log
+2026-05-23 13:47:07 [INFO] Removendo DESKTOP-8K74HJC-20260523-1111.log
+2026-05-23 13:47:07 [INFO] Removendo DESKTOP-8K74HJC-20260523-1111a.log
+2026-05-23 13:47:07 [INFO] Removendo DESKTOP-8K74HJC-20260523-1113.log
+2026-05-23 13:47:07 [INFO] Removendo DESKTOP-8K74HJC-20260523-1221.log
+2026-05-23 13:47:07 [INFO] Removendo DESKTOP-8K74HJC-20260523-1240.log
+2026-05-23 13:47:07 [INFO] Removendo DESKTOP-8K74HJC-20260523-1321.log
+2026-05-23 13:47:07 [INFO] Removendo DESKTOP-8K74HJC-20260523-1345.log
+2026-05-23 13:47:07 [INFO] Removendo FXSAPIDebugLogFile.txt
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\WINDOWS\Temp\FXSAPIDebugLogFile.txt: The process cannot access the file 'C:\WINDOWS\Temp\FXSAPIDebugLogFile.txt' because it is being used by another process.
+2026-05-23 13:47:07 [INFO] Removendo FXSTIFFDebugLogFile.txt
+2026-05-23 13:47:07 [WARN] Falha ao remover C:\WINDOWS\Temp\FXSTIFFDebugLogFile.txt: The process cannot access the file 'C:\WINDOWS\Temp\FXSTIFFDebugLogFile.txt' because it is being used by another process.
+2026-05-23 13:47:07 [INFO] Removendo MpSigStub.log
+2026-05-23 13:47:07 [INFO] Temporarios do Windows processados.
+2026-05-23 13:47:23 [INFO] Ping: 8.8.8.8
+2026-05-23 13:47:26 [INFO] Ping: 1.1.1.1
+2026-05-23 13:47:29 [INFO] Ping: google.com
+2026-05-23 13:47:53 [INFO] --- Session started: 13:47:53 ---
+2026-05-23 13:47:53 [INFO] Initialized Bug-G Tools 2.0-dev
+2026-05-23 13:47:53 [INFO] Base modular carregada
+2026-05-23 13:54:51 [INFO] --- Session started: 13:54:51 ---
+2026-05-23 13:54:51 [INFO] Initialized Bug-G Tools 2.0-dev
+2026-05-23 13:56:45 [INFO] --- Session started: 13:56:45 ---
+2026-05-23 13:56:45 [INFO] Initialized Bug-G Tools 2.0-dev
+2026-05-23 13:56:48 [INFO] Iniciando PUBG pela Steam
+2026-05-23 13:56:48 [INFO] O jogo deve iniciar em instantes.
+2026-05-23 13:57:29 [INFO] Ping: 8.8.8.8
+2026-05-23 13:57:32 [INFO] Ping: 1.1.1.1
+2026-05-23 13:57:35 [INFO] Ping: google.com
+2026-05-23 13:57:39 [INFO] Relatorio salvo em: C:\Users\julia\OneDrive - Juliano Soares\Games\PUBG\Bug-G\1.0\logs\BugG-Report-2026-05-23-135738.txt
+2026-05-23 13:59:53 [INFO] --- Session started: 13:59:53 ---
+2026-05-23 13:59:53 [INFO] Initialized Bug-G Tools 2.0-dev
+2026-05-23 14:03:45 [INFO] --- Session started: 14:03:45 ---
+2026-05-23 14:03:45 [INFO] Initialized Bug-G Tools 2.0-dev
+2026-05-23 14:03:50 [INFO] Medindo trafego por 5 segundos

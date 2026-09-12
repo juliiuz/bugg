@@ -1,0 +1,39 @@
+{
+  "appName": "Bug-G Tools",
+  "version": "2.1.1-competitive-checked",
+  "steamAppId": "578080",
+  "pubgRelativePath": "steamapps\\common\\PUBG",
+  "configBackupFile": "GameUserSettings.ini",
+  "defaultTheme": "Neon",
+  "enableDetailedLogs": true,
+  "presets": {
+    "safe": [
+      "Clear-PubgTemp",
+      "Clear-ShaderCache",
+      "Flush-Dns",
+      "Start-Pubg"
+    ],
+    "competitive": [
+      "Stop-CompetitiveProcesses",
+      "Stop-CompetitiveServices",
+      "Set-UltimatePerformance",
+      "Disable-GameDvr",
+      "Disable-WindowsNotifications",
+      "Apply-MmcssGameTweaks",
+      "Start-Pubg",
+      "Finalize-CompetitiveMode"
+    ],
+    "network": [
+      "Flush-Dns",
+      "Register-Dns",
+      "Renew-Ip",
+      "Reset-Winsock"
+    ],
+    "diagnostic": [
+      "Show-SystemStatus",
+      "Test-PubgNetwork",
+      "Show-PubgConnections",
+      "New-BugGReport"
+    ]
+  }
+}

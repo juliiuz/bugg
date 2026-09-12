@@ -1,0 +1,133 @@
+﻿2026-08-27 20:19:17 [INFO] --- Session started: 20:19:17 ---
+2026-08-27 20:19:17 [INFO] Initialized Bug-G Tools 2.0-dev
+2026-08-27 20:19:23 [INFO] Limpando cache DNS
+2026-08-27 20:19:24 [INFO] Registrando DNS
+2026-08-27 20:19:27 [INFO] Liberando IP
+2026-08-27 20:19:28 [INFO] Renovando IP
+2026-08-27 20:19:32 [INFO] Resetando Winsock
+2026-08-27 20:19:33 [INFO] Rede processada. Reiniciar o PC pode ser necessario.
+2026-08-27 20:19:57 [INFO] Removendo Crashes
+2026-08-27 20:19:57 [INFO] Removendo CohCache
+2026-08-27 20:19:57 [INFO] Removendo Demos
+2026-08-27 20:19:59 [INFO] Removendo Dist
+2026-08-27 20:19:59 [WARN] Nao encontrado: C:\Users\julia\AppData\Local\TslGame\Saved\Dist
+2026-08-27 20:19:59 [INFO] Removendo Dists
+2026-08-27 20:19:59 [INFO] Removendo Logs
+2026-08-27 20:19:59 [WARN] Falha ao remover C:\Users\julia\AppData\Local\TslGame\Saved\Logs: The process cannot access the file 'TslGame.log' because it is being used by another process.
+2026-08-27 20:19:59 [INFO] Limpeza do PUBG finalizada.
+2026-08-27 20:19:59 [INFO] Removendo 0002a93b13f58350.nvph
+2026-08-27 20:19:59 [INFO] Removendo 0002a93b1fa5d270.nvph
+2026-08-27 20:19:59 [INFO] Removendo 0002a93b31f6afee.nvph
+2026-08-27 20:19:59 [INFO] Removendo 0002a93b43c877cd.nvph
+2026-08-27 20:19:59 [INFO] Removendo 0002a93b6a45ffe5.nvph
+2026-08-27 20:19:59 [INFO] Removendo 0002a93b9ff3bf53.nvph
+2026-08-27 20:19:59 [INFO] Removendo 0002a93bae603702.nvph
+2026-08-27 20:19:59 [INFO] Removendo 2000a93b9ff3bf53.nvph
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93b128cd128.nvph
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93b128cd129.nvph
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93b13f58350.nvph
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93b1da2583c.nvph
+2026-08-27 20:19:59 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b1da2583c.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b1da2583c.nvph' because it is being used by another process.
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93b1fa5d270.nvph
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93b2a531b95.nvph
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93b2ac6783f.nvph
+2026-08-27 20:19:59 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b2ac6783f.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b2ac6783f.nvph' because it is being used by another process.
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93b31f6afee.nvph
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93b3f720ae0.nvph
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93b414b340b.nvph
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93b43c877cd.nvph
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93b62901ecf.nvph
+2026-08-27 20:19:59 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b62901ecf.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b62901ecf.nvph' because it is being used by another process.
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93b64ef8c69.nvph
+2026-08-27 20:19:59 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b64ef8c69.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b64ef8c69.nvph' because it is being used by another process.
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93b6a45ffe5.nvph
+2026-08-27 20:19:59 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b6a45ffe5.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b6a45ffe5.nvph' because it is being used by another process.
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93b6a45ffe6.nvph
+2026-08-27 20:19:59 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b6a45ffe6.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93b6a45ffe6.nvph' because it is being used by another process.
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93b6a45ffe7.nvph
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93b730a2159.nvph
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93bae603702.nvph
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93bed53c641.nvph
+2026-08-27 20:19:59 [WARN] Falha ao remover C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93bed53c641.nvph: The process cannot access the file 'C:\Users\julia\AppData\Local\NVIDIA\DXCache\ecc4a93bed53c641.nvph' because it is being used by another process.
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93bed53c642.nvph
+2026-08-27 20:19:59 [INFO] Removendo ecc4a93bee9c70fa.nvph
+2026-08-27 20:19:59 [INFO] Removendo b315786a2d10993732d5dcb76e61f3c4
+2026-08-27 20:19:59 [INFO] Removendo 1a82b3ed8639e459
+2026-08-27 20:19:59 [INFO] Removendo 1db5f3a1380cd6d3
+2026-08-27 20:19:59 [INFO] Removendo 2549440c3844a768
+2026-08-27 20:19:59 [INFO] Removendo 3534848bb9f4cb71
+2026-08-27 20:19:59 [INFO] Removendo 5dc22bc232e57c76
+2026-08-27 20:19:59 [INFO] Removendo 6c4a3154175c1245
+2026-08-27 20:19:59 [INFO] Removendo c887a4af2c182404
+2026-08-27 20:19:59 [INFO] Removendo cb00da9ba77862e
+2026-08-27 20:19:59 [INFO] Removendo ceaeb6278952c45b
+2026-08-27 20:19:59 [INFO] Removendo e7ff1d3752526ef
+2026-08-27 20:19:59 [INFO] Removendo e85bb08d12d28cfc
+2026-08-27 20:19:59 [INFO] Cache de shaders limpo.
+2026-08-27 20:19:59 [INFO] Encerrando chrome
+2026-08-27 20:19:59 [INFO] Encerrando GoogleCrashHandler
+2026-08-27 20:19:59 [INFO] Encerrando GoogleCrashHandler64
+2026-08-27 20:19:59 [INFO] Encerrando msedge
+2026-08-27 20:19:59 [INFO] Encerrando firefox
+2026-08-27 20:19:59 [INFO] Encerrando opera
+2026-08-27 20:19:59 [INFO] Encerrando brave
+2026-08-27 20:19:59 [INFO] Encerrando OneDrive
+2026-08-27 20:19:59 [INFO] Encerrando GoogleDriveFS
+2026-08-27 20:19:59 [INFO] Encerrando Dropbox
+2026-08-27 20:19:59 [INFO] Encerrando Skype
+2026-08-27 20:19:59 [INFO] Encerrando Teams
+2026-08-27 20:19:59 [INFO] Encerrando ms-teams
+2026-08-27 20:19:59 [INFO] Encerrando Telegram
+2026-08-27 20:19:59 [INFO] Encerrando WhatsApp
+2026-08-27 20:19:59 [INFO] Encerrando Zoom
+2026-08-27 20:19:59 [INFO] Encerrando steamwebhelper
+2026-08-27 20:19:59 [INFO] Encerrando EpicGamesLauncher
+2026-08-27 20:19:59 [INFO] Encerrando upc
+2026-08-27 20:19:59 [INFO] Encerrando UbisoftConnect
+2026-08-27 20:19:59 [INFO] Encerrando EADesktop
+2026-08-27 20:19:59 [INFO] Encerrando Origin
+2026-08-27 20:19:59 [INFO] Encerrando Battle.net
+2026-08-27 20:19:59 [INFO] Encerrando Agent
+2026-08-27 20:19:59 [INFO] Encerrando Launcher
+2026-08-27 20:19:59 [INFO] Encerrando RockstarService
+2026-08-27 20:19:59 [INFO] Encerrando NVIDIA Share
+2026-08-27 20:19:59 [INFO] Encerrando nvsphelper64
+2026-08-27 20:19:59 [INFO] Encerrando RadeonSoftware
+2026-08-27 20:19:59 [INFO] Encerrando Overwolf
+2026-08-27 20:19:59 [INFO] Encerrando GameBar
+2026-08-27 20:19:59 [INFO] Encerrando GameBarFTServer
+2026-08-27 20:19:59 [INFO] Encerrando GameBarPresenceWriter
+2026-08-27 20:19:59 [INFO] Encerrando XboxPcApp
+2026-08-27 20:19:59 [INFO] Encerrando Adobe Desktop Service
+2026-08-27 20:19:59 [INFO] Encerrando Creative Cloud
+2026-08-27 20:19:59 [INFO] Encerrando CCXProcess
+2026-08-27 20:19:59 [INFO] Encerrando jusched
+2026-08-27 20:19:59 [INFO] Encerrando OfficeClickToRun
+2026-08-27 20:19:59 [INFO] Encerrando SearchUI
+2026-08-27 20:19:59 [INFO] Encerrando SearchIndexer
+2026-08-27 20:19:59 [INFO] Encerrando HPWuSchd2
+2026-08-27 20:19:59 [INFO] Encerrando EpsonStatusMonitor3
+2026-08-27 20:19:59 [INFO] Encerrando iCUE
+2026-08-27 20:19:59 [INFO] Encerrando ArmouryCrate
+2026-08-27 20:19:59 [INFO] Encerrando Mystic_Light
+2026-08-27 20:19:59 [INFO] Encerrando TeamViewer
+2026-08-27 20:19:59 [INFO] Encerrando AnyDesk
+2026-08-27 20:19:59 [INFO] Encerrando qbittorrent
+2026-08-27 20:19:59 [INFO] Encerrando uTorrent
+2026-08-27 20:19:59 [INFO] Processos processados.
+2026-08-27 20:19:59 [INFO] Criando plano Ultimate Performance
+2026-08-27 20:20:00 [INFO] Ativando plano Ultimate Performance
+2026-08-27 20:20:01 [INFO] Plano de energia aplicado.
+2026-08-27 20:20:01 [INFO] Desativando captura em background do Xbox Game DVR
+2026-08-27 20:20:01 [INFO] Game DVR desativado.
+2026-08-27 20:20:01 [INFO] Desativando notificacoes toast
+2026-08-27 20:20:01 [INFO] Desativando notificacoes globais
+2026-08-27 20:20:01 [INFO] Desativando sugestoes e dicas do Windows
+2026-08-27 20:20:01 [INFO] Notificacoes desativadas. Pode ser necessario sair e entrar no Windows para aplicar tudo.
+2026-08-27 20:20:01 [INFO] Removendo Network Throttling
+2026-08-27 20:20:01 [INFO] Priorizando perfil Games
+2026-08-27 20:20:01 [INFO] Tweaks MMCSS aplicados.
+2026-08-27 20:20:01 [INFO] Resetando Winsock
+2026-08-27 20:20:02 [INFO] Winsock resetado. Reiniciar o PC e recomendado.
+2026-08-27 20:20:02 [INFO] Iniciando PUBG pela Steam
+2026-08-27 20:20:03 [INFO] O jogo deve iniciar em instantes.

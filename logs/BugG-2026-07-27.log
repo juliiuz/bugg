@@ -1,0 +1,9 @@
+﻿2026-07-27 19:14:34 [INFO] --- Session started: 19:14:34 ---
+2026-07-27 19:14:34 [INFO] Initialized Bug-G Tools 2.0-dev
+2026-07-27 19:14:40 [INFO] Limpando cache DNS
+2026-07-27 19:14:41 [INFO] Operacao concluida.
+2026-07-27 19:14:43 [INFO] Registrando DNS
+2026-07-27 19:14:47 [INFO] Operacao concluida.
+2026-07-27 19:14:57 [INFO] Ping: 8.8.8.8
+2026-07-27 19:15:00 [INFO] Ping: 1.1.1.1
+2026-07-27 19:15:03 [INFO] Ping: google.com
