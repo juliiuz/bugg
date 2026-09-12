@@ -1,6 +1,6 @@
 Bug-G Tools 2.1 - Competitive preset
 
-- This set of scripts were made to help you with that kind stuff Krafton never does: fixing bugs. 
+- This set of scripts was made to help you with that kind stuff Krafton never does: fixing bugs. 
 
 Competitive mode now:
 - Protects PUBG, BattlEye, Zakynthos, Steam core (including steamwebhelper to avoid respawn loops), Discord, NVIDIA display/container, Windows core, network, audio/input and Defender/firewall.
